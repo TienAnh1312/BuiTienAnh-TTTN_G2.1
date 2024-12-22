@@ -1,0 +1,232 @@
+﻿@model K21CNT2_BuiTienAnh_2110900003.Models.Customer
+@{
+    ViewData["Title"] = "Đăng ký";
+}
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Tooplate's Little Fashion - Sign Up Page</title>
+
+        <!-- CSS FILES -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+
+        <link href="~/Style/css/bootstrap.min.css" rel="stylesheet">
+        <link href="~/Style/css/bootstrap-icons.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="~/Style/css/slick.css" />
+
+        <link href="~/Style/css/tooplate-little-fashion.css" rel="stylesheet">
+
+    </head>
+    
+    <body>
+   @*  Start: Navbar *@
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <strong><span>TA</span> Fashion</strong>
+            </a>
+
+            <div class="d-lg-none">
+                <a href="sign-in.html" class="bi-person custom-icon me-3"></a>
+
+                <a href="product-detail.html" class="bi-bag custom-icon"></a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">Story</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="products.html">Products</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="faq.html">FAQs</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+
+                <div class="d-none d-lg-block">
+                    <a asp-area="Customers" asp-controller="Login" asp-action="Index" class="bi-person custom-icon me-3"> </a>
+
+                    <a href="product-detail.html" class="bi-bag custom-icon"></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    @*  End: Navbar *@
+
+        <section class="preloader">
+            <div class="spinner">
+                <span class="sk-inner-circle"></span>
+            </div>
+        </section>
+    
+        <main>
+            <section class="sign-in-form section-padding">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-8 mx-auto col-12">
+
+                            <h1 class="hero-title text-center mb-5">Sign Up</h1>
+
+                            <div class="social-login d-flex flex-column w-50 m-auto">
+                                
+                                <a href="#" class="btn custom-btn social-btn mb-4">
+                                    <i class="bi bi-google me-3"></i>
+
+                                    Continue with Google
+                                </a>
+
+                                <a href="#" class="btn custom-btn social-btn">
+                                    <i class="bi bi-facebook me-3"></i>
+
+                                    Continue with Facebook
+                                </a>
+                            </div>
+
+                            <div class="div-separator w-50 m-auto my-5"><span>or</span></div>
+
+                            <div class="row">
+                                <div class="col-lg-8 col-11 mx-auto">
+                                    <form asp-action="Create" role="form" method="post">
+
+
+                                        <div class="form-floating">
+                                            <input <input asp-for="Name" type="text" id="name" class="form-control" placeholder="Họ và tên" required>
+
+                                            <label for="name">Họ và tên</label>
+                                        </div>
+
+                                        <div class="form-floating">
+                                            <input asp-for="Email" type="email" id="email" class="form-control" placeholder="Email " required>
+
+                                            <label for="email">Email </label>
+                                        </div>
+
+
+                                        <div class="form-floating">
+                                            <input asp-for="Username" type="text" name="username" id="username" class="form-control" placeholder="Tên Đăng nhập" required>
+
+                                            <label for="email">Tên đăng nhập</label>
+                                        </div>
+                                        <div class="form-floating">
+                                            <input asp-for="Password" type="password" name="password" id="password" class="form-control" placeholder="Password" required>
+
+                                            <label for="password">Password</label>
+
+                                            @* <p class="text-center">* shall include 0-9 a-z A-Z in 4 to 10 characters</p> *@
+                                        </div>
+
+                                        <div class="form-floating">
+                                            <input asp-for="Address" type="text" name="address" id="address" class="form-control" placeholder="Địa chỉ" required>
+
+                                            <label for="email">Địa chỉ</label>
+                                        </div>
+                                    <div class="form-floating">
+                                        <input asp-for="Phone" type="number" name="phone" id="phone" class="form-control" placeholder="Số điện thoại" required>
+
+                                        <label for="email">Số điện thoại</label>
+                                    </div>
+                                       
+
+                                        <button type="submit" class="btn custom-btn form-control mt-4 mb-3">
+                                            Create account
+                                        </button>
+
+                                    <p class="text-center">Already have an account? Please <a asp-controller="Login" asp-action="Index">Sign In</a></p>
+
+                                    </form>
+                                </div>
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </main>
+
+    @*  Start: Footer *@
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-3 col-10 me-auto mb-4">
+                        <h4 class="text-white mb-3"><a href="index.html">Little</a> Fashion</h4>
+                        <p class="copyright-text text-muted mt-lg-5 mb-4 mb-lg-0">Copyright © 2022 <strong>Little Fashion</strong></p>
+                        <br>
+                        <p class="copyright-text">Designed by <a href="https://www.tooplate.com/" target="_blank">Tooplate</a></p>
+                    </div>
+
+                    <div class="col-lg-5 col-8">
+                        <h5 class="text-white mb-3">Sitemap</h5>
+
+                        <ul class="footer-menu d-flex flex-wrap">
+                            <li class="footer-menu-item"><a href="about.html" class="footer-menu-link">Story</a></li>
+
+                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">Products</a></li>
+
+                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">Privacy policy</a></li>
+
+                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">FAQs</a></li>
+
+                            <li class="footer-menu-item"><a href="#" class="footer-menu-link">Contact</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-4">
+                        <h5 class="text-white mb-3">Social</h5>
+
+                        <ul class="social-icon">
+
+                            <li><a href="#" class="social-icon-link bi-youtube"></a></li>
+
+                            <li><a href="#" class="social-icon-link bi-whatsapp"></a></li>
+
+                            <li><a href="#" class="social-icon-link bi-instagram"></a></li>
+
+                            <li><a href="#" class="social-icon-link bi-skype"></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </footer>
+    @*  End: Footer *@
+        <!-- JAVASCRIPT FILES -->
+        <script src="~/Style/js/jquery.min.js"></script>
+        <script src="~/Style/js/bootstrap.bundle.min.js"></script>
+        <script src="~/Style/js/Headroom.js"></script>
+        <script src="~/Style/js/jQuery.headroom.js"></script>
+        <script src="~/Style/js/slick.min.js"></script>
+        <script src="~/Style/js/custom.js"></script>
+
+    </body>
+</html>

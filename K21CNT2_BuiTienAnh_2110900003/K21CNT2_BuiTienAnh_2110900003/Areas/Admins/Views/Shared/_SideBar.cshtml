@@ -1,0 +1,143 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4 position-fixed">
+    <!-- Brand Logo -->
+    <a href="/adminql/dashboard" class="brand-link">
+        <img src="~/dist/img/..." alt="Logo" class="" width="75px">
+        <span class="brand-text font-weight-light ms-2">Quản lý ...</span>
+    </a>
+
+    <!-- Sidebar
+    <div class="sidebar">
+        <!-- Sidebar user panel (optional) -->
+    <div class="user-panel mt-3 pb-3 mb-3 d-flex position-fixed bottom-0 ">
+        @* <div class="image"> *@
+        @*     <img src="~/dist/img/avatar_macdinh.jpg" class="img-circle elevation-2" alt="Logo"> *@
+        @* </div> *@
+        <div class="info">
+            @{
+                if (HttpContextAccessor.HttpContext.Session.GetString("AdminLogin") != null)
+                {
+                    <a href="#" class="d-block text-wrap">@HttpContextAccessor.HttpContext.Session.GetString("AdminLogin")</a>
+                    <a asp-action="Logout" asp-controller="Login">Đăng xuất</a>
+                }
+                else
+                {
+                    <a href="#" class="d-block"></a>
+                }
+            }
+
+
+        </div>
+    </div>
+    <!-- Sidebar Menu -->
+    <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+            <li class="nav-item">
+                <a href="/admins/AdminUsers" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-solid fa-house-user fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý Admins
+                        </p>
+                    </div>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a href="/admins/Customers" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-solid fa-user-tie fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý Người Dùng
+                        </p>
+                    </div>
+                </a>
+            </li>
+            
+            <li class="nav-item">
+                <a href="/admins/Products" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-solid fa-list fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý Sản Phẩm
+                        </p>
+                    </div>
+                </a>
+
+            </li>
+            <li class="nav-item">
+                <a href="/admins/Categories" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-regular fa-newspaper fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý Danh Mục
+                        </p>
+                    </div>
+                </a>
+
+            </li>
+            <li class="nav-item">
+                <a href ="/admins/Contacts" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-solid fa-graduation-cap fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý liên Hệ
+                        </p>
+                    </div>
+                </a>
+
+            </li>
+            <li class="nav-item">
+                <a href="/admins/News" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-solid fa-wallet fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý Tin tức
+                        </p>
+                    </div>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="/admins/Banners" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-solid fa-file-signature fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý Banners
+                        </p>
+                    </div>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="/admins/Partners" class="nav-link">
+                    <div class="d-flex align-items-center">
+                        <div class="d-flex justify-content-center" style="width: 30px">
+                            <i class="fa-solid fa-file-signature fa-xl"></i>
+                        </div>
+                        <p class="ms-3">
+                            Quản lý Đối tác
+                        </p>
+                    </div>
+                </a>
+
+            </li>
+
+        </ul>
+    </nav>
+    </div>
+</aside>

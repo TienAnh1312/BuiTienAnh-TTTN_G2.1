@@ -1,0 +1,81 @@
+﻿@model K21CNT2_BuiTienAnh_2110900003.Models.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<h1>Create Product</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Danh mục -->
+            <div class="form-group">
+                <label for="Cid" class="control-label">Danh mục</label>
+                <select asp-for="Cid" class="form-control">
+                    <option value="">Chọn Danh mục</option>
+                    @foreach (var category in ViewData["Categoriess"] as List<SelectListItem>)
+                    {
+                        <option value="@category.Value">@category.Text</option>
+                    }
+                </select>
+                <span asp-validation-for="Cid" class="text-danger"></span>
+            </div>
+
+            <!-- Mã sản phẩm -->
+            <div class="form-group">
+                <label asp-for="Code" class="control-label"></label>
+                <input asp-for="Code" class="form-control" />
+                <span asp-validation-for="Code" class="text-danger"></span>
+            </div>
+
+            <!-- Tên sản phẩm -->
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <!-- Mô tả sản phẩm -->
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <!-- Ảnh sản phẩm -->
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" type="file" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+
+            <!-- Nội dung sản phẩm -->
+            <div class="form-group">
+                <label asp-for="Content" class="control-label"></label>
+                <input asp-for="Content" class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+
+            <!-- Các trường khác (MetaTitle, MetaKeyword, MetaDescription, Slug, PriceOld, PriceNew, v.v.) -->
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PrjBH</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PrjBH.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+
+        <!-- Navbar -->
+        @await Html.PartialAsync("_NavBar")
+    </header>
+    <div class="">
+        <main role="main" class="">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - PrjBH - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <!-- JAVASCRIPT FILES -->
+    <script src="~/Style/js/jquery.min.js"></script>
+    <script src="~/Style/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Style/js/Headroom.js"></script>
+    <script src="~/Style/js/jQuery.headroom.js"></script>
+    <script src="~/Style/js/slick.min.js"></script>
+    <script src="~/Style/js/custom.js"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

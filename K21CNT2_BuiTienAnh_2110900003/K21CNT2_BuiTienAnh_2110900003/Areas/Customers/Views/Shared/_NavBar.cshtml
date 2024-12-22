@@ -1,0 +1,87 @@
+﻿
+
+<style>
+    /* Tùy chỉnh biểu tượng */
+    .custom-icon {
+        font-size: 1.5rem;
+        margin-right: 8px;
+        cursor: pointer; /* Thêm hiệu ứng con trỏ */
+    }
+
+    /* Hiển thị menu khi hover */
+    .hover-dropdown:hover .dropdown-menu {
+        display: block; /* Hiển thị menu khi hover vào dropdown */
+    }
+
+    .dropdown-menu {
+        min-width: 200px; /* Đặt chiều rộng cố định cho menu */
+        border-radius: 6px; /* Bo tròn góc */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Hiệu ứng bóng */
+        display: none; /* Ẩn menu theo mặc định */
+        position: absolute;
+    }
+
+    /* Căn chỉnh menu thả xuống */
+    .hover-dropdown {
+        position: relative; /* Đảm bảo menu được căn theo dropdown */
+    }
+</style>
+
+<nav class="navbar navbar-expand-lg">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <a class="navbar-brand" asp-area="Customers" asp-controller="Dashboard" asp-action="Index">
+            <strong><span>TA</span> Fashion</strong>
+        </a>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" asp-area="" asp-controller="Dashboard" asp-action="Index">Home</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">Story</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Products" asp-action="Index">Products</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="faq.html">FAQs</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
+
+            <!-- Hover Dropdown Menu -->
+            <div class="d-none d-lg-block dropdown hover-dropdown bi-person custom-icon me-3">
+               @*  <a href="#" class="bi-person custom-icon dropdown-toggle" id="userMenu">
+                    9pglgsmcfy
+                </a> *@
+                <ul class="dropdown-menu dropdown-menu-end">
+                    <li>
+                        <a asp-area="Customers" asp-controller="Customers" asp-action="Edit"
+                           asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")"
+                           class="dropdown-item">
+                            Tài Khoản Của Tôi
+                        </a>
+
+                    </li>
+                    
+                    <li>
+                        <a asp-area="Customers" asp-controller="Login" asp-action="Logout" class="dropdown-item">Đăng Xuất</a>
+                    </li>
+                </ul>
+                
+            </div>
+            <a href="product-detail.html" class="bi-bag custom-icon"></a>
+        </div>
+    </div>
+</nav>
