@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ajvQwn+78ZU=",
+  "dgSpecHash": "1ce1qlwpJm0=",
   "success": true,
-  "projectFilePath": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj",
+  "projectFilePath": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

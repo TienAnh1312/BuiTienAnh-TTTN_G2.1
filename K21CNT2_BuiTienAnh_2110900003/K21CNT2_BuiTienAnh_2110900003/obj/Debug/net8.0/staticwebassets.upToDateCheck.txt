@@ -82,6 +82,7 @@ wwwroot\images\admins\banners\db6.jpg
 wwwroot\images\admins\banners\db7.jpg
 wwwroot\images\admins\customers\banner1.jfif
 wwwroot\images\admins\customers\db1.jpg
+wwwroot\images\admins\customers\db2.jpg
 wwwroot\images\admins\customers\db3.jpg
 wwwroot\images\admins\customers\op4.jpg
 wwwroot\images\admins\customers\op5.jpg

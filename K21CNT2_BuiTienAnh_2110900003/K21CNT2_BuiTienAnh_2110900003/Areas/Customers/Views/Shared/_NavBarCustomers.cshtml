@@ -25,6 +25,21 @@
     .hover-dropdown {
         position: relative; /* Đảm bảo menu được căn theo dropdown */
     }
+
+    .cart-count {
+        position: absolute;
+        top: -5px;
+        right: -5px;
+        background-color: red;
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+        border-radius: 50%;
+        padding: 5px;
+    }
+
+  
+
 </style>
 
 <nav class="navbar navbar-expand-lg">
@@ -81,7 +96,15 @@
                 </ul>
                 
             </div>
-            <a href="product-detail.html" class="bi-bag custom-icon"></a>
+          
+                <a asp-area="Customers" asp-action="Index" asp-controller="Carts" class="bi-bag custom-icon">
+                    @if (ViewBag.CartCount > 0)
+                    {
+                        <span class="cart-count">@ViewBag.CartCount</span>
+                    }
+                </a>
+           
+
         </div>
     </div>
 </nav>

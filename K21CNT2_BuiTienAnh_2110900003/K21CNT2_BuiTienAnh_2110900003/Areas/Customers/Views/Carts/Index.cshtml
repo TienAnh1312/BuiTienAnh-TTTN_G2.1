@@ -1,0 +1,202 @@
+﻿@model IEnumerable<K21CNT2_BuiTienAnh_2110900003.Models.Cart>
+@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Style/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Style/css/bootstrap-icons.css" />
+    <link rel="stylesheet" href="~/Style/css/slick.css" />
+    <link rel="stylesheet" href="~/Style/css/tooplate-little-fashion.css" />
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .cart-container {
+            padding: 2rem;
+        }
+
+        .cart-header {
+            display: grid;
+            grid-template-columns: 5fr 2fr 2fr 2fr;
+            font-weight: bold;
+            text-align: center;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .cart-item {
+            display: grid;
+            grid-template-columns: 5fr 2fr 2fr 2fr;
+            align-items: center;
+            text-align: center;
+            padding: 1rem 0;
+            border-bottom: 1px solid #eee;
+        }
+
+            .cart-item img {
+                width: 70px;
+                height: auto;
+            }
+
+        .cart-actions {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+
+        .summary {
+            text-align: right;
+            margin-top: 2rem;
+        }
+
+            .summary p {
+                font-size: 1.2rem;
+            }
+
+            .summary .total {
+                font-weight: bold;
+                font-size: 1.5rem;
+            }
+    </style>
+</head>
+
+<body>
+
+    <div class="cart-container">
+        <h2 class="text-center">Giỏ hàng</h2>
+        <div class="cart-header">
+            <div>Sản phẩm</div>
+            <div>Đơn giá</div>
+            <div>Số lượng</div>
+            <div>Thao tác</div>
+        </div>
+
+        @foreach (var item in Model)
+        {
+            var money = item.Price * item.Quantity;
+            <div class="cart-item">
+                <div>
+                    <img src="~/@Url.Content(item.Image)" alt="@item.Name">
+                    <p>@item.Name</p>
+                </div>
+                <div>@string.Format("{0:#,##0}", item.Price) VNĐ</div>
+                <div>
+                    <button class="btn btn-sm btn-outline-secondary decrease-qty">-</button>
+                    <input type="number" value="@item.Quantity" min="1" class="form-control d-inline qty-input" style="width: 60px; text-align: center;" data-price="@item.Price" data-id="@item.Id">
+                    <button class="btn btn-sm btn-outline-secondary increase-qty">+</button>
+                </div>
+                <div class="cart-actions">
+                    <a href="#" class="btn btn-danger btn-sm delete-item" data-id="@item.Id">Xóa</a>
+                    <a href="#" data-id="@item.Id" class="btn update btn-danger btn-sm">Cập nhập</a>
+                </div>
+            </div>
+        }
+
+        <div class="summary">
+            <p>Tổng thành tiền: <span class="total">@string.Format("{0:#,##0}", ViewBag.total) VNĐ</span></p>
+            <a href="/Customers/Carts/Orders" class="btn btn-primary">Đặt hàng ngay</a>
+            <a href="/Products" class="btn btn-secondary">Tiếp tục mua hàng</a>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="~/Style/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // Hàm cập nhật tổng tiền
+            function updateTotal() {
+                let total = 0;
+                $(".qty-input").each(function () {
+                    let qty = parseInt($(this).val());
+                    let price = parseFloat($(this).data("price"));
+                    total += qty * price;
+                });
+                $(".total").text(total.toLocaleString("vi-VN") + " VNĐ");
+            }
+
+            // Sự kiện bấm nút "Cập nhật"
+            $(document).on("click", ".update", function (e) {
+                e.preventDefault();  // Ngừng hành động mặc định của thẻ <a>
+
+                let cartId = $(this).data("id");
+                let qtyInput = $(this).closest(".cart-item").find(".qty-input");
+                let updatedQty = qtyInput.val(); // Lấy số lượng đã nhập
+
+                // Kiểm tra và gửi yêu cầu AJAX để cập nhật số lượng
+                $.ajax({
+                    url: "/Customers/Carts/Update",
+                    method: "POST",
+                    data: {
+                        id: cartId,
+                        quantity: updatedQty
+                    },
+                    success: function (response) {
+                        // Cập nhật tổng tiền ngay sau khi cập nhật số lượng thành công
+                        updateTotal();
+                        // // Chuyển hướng sang trang đặt hàng
+                        // window.location.href = "/Customers/Carts/Orders";
+                    },
+                    error: function () {
+                        alert("Có lỗi xảy ra khi cập nhật giỏ hàng.");
+                    }
+                });
+            });
+
+            // Sự kiện bấm nút giảm/tăng số lượng
+            $(document).on("click", ".decrease-qty, .increase-qty", function () {
+                let input = $(this).siblings(".qty-input");
+                let currentVal = parseInt(input.val());
+                if ($(this).hasClass("decrease-qty") && currentVal > 1) {
+                    input.val(currentVal - 1);
+                }
+                if ($(this).hasClass("increase-qty")) {
+                    input.val(currentVal + 1);
+                }
+                updateTotal();  // Cập nhật lại tổng tiền ngay khi thay đổi số lượng
+            });
+
+            // Sự kiện bấm nút "Xóa" sản phẩm
+            $(document).on("click", ".delete-item", function (e) {
+                e.preventDefault();
+
+                if (!confirm("Bạn có chắc muốn xóa sản phẩm này khỏi giỏ hàng?")) {
+                    return;
+                }
+
+                let cartId = $(this).data("id");
+
+                // Gửi yêu cầu AJAX để xóa sản phẩm khỏi giỏ hàng
+                $.ajax({
+                    url: "/Customers/Carts/Remove",
+                    method: "POST",
+                    data: { id: cartId },
+                    success: function (response) {
+                        $(this).closest(".cart-item").remove();  // Xóa sản phẩm khỏi giao diện
+                        updateTotal();  // Cập nhật lại tổng tiền
+                    },
+                    error: function () {
+                        alert("Có lỗi xảy ra khi xóa sản phẩm.");
+                    }
+                });
+            });
+
+            // Khi thay đổi giá trị trong input số lượng
+            $(document).on("change", ".qty-input", function () {
+                if (parseInt($(this).val()) < 1) {
+                    $(this).val(1); // Giới hạn số lượng không nhỏ hơn 1
+                }
+                updateTotal();  // Cập nhật lại tổng tiền khi thay đổi số lượng
+            });
+
+            // Cập nhật tổng tiền ban đầu khi trang tải
+            updateTotal();
+        });
+    </script>
+</body>

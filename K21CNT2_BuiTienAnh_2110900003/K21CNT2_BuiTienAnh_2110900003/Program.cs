@@ -17,7 +17,7 @@ namespace K21CNT2_BuiTienAnh_2110900003
             // C?u hình s? d?ng session
             builder.Services.AddSession(options =>
             {
-                options.IdleTimeout = TimeSpan.FromSeconds(60);
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
                 options.Cookie.Name = "TADev";

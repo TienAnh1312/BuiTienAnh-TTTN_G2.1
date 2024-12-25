@@ -1,747 +1,751 @@
 {
   "Files": [
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\K21CNT2_BuiTienAnh_2110900003.bundle.scp.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\K21CNT2_BuiTienAnh_2110900003.bundle.scp.css",
       "PackagePath": "staticwebassets\\K21CNT2_BuiTienAnh_2110900003.le483pdvt1.bundle.scp.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\bootstrap-icons.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\Style\\css\\bootstrap-icons.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\bootstrap.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Style\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\slick.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\slick.css",
       "PackagePath": "staticwebassets\\Style\\css\\slick.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\tooplate-little-fashion.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\css\\tooplate-little-fashion.css",
       "PackagePath": "staticwebassets\\Style\\css\\tooplate-little-fashion.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\fonts\\bootstrap-icons.woff",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\Style\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\fonts\\bootstrap-icons.woff2",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\Style\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\businesspeople-meeting-office-working.jpg",
       "PackagePath": "staticwebassets\\Style\\images\\header\\businesspeople-meeting-office-working.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "PackagePath": "staticwebassets\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\portrait-british-woman.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\portrait-british-woman.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\people\\portrait-british-woman.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
       "PackagePath": "staticwebassets\\Style\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\Headroom.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\Headroom.js",
       "PackagePath": "staticwebassets\\Style\\js\\Headroom.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\Style\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\custom.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\custom.js",
       "PackagePath": "staticwebassets\\Style\\js\\custom.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\jQuery.headroom.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\jQuery.headroom.js",
       "PackagePath": "staticwebassets\\Style\\js\\jQuery.headroom.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\jquery.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\Style\\js\\jquery.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\slick.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\Style\\js\\slick.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\css\\site.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\adminlte.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
       "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\AdminLTELogo.png",
       "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\adminLTE.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\adminLTE.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\adminLTE.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar.png",
       "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar2.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar2.png",
       "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar3.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar3.png",
       "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar4.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar4.png",
       "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar5.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar5.png",
       "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar_macdinh.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\avatar_macdinh.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\avatar_macdinh.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\boxed-bg.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\boxed-bg.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\boxed-bg.png",
       "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\american-express.png",
       "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\cirrus.png",
       "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\mastercard.png",
       "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\paypal.png",
       "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\paypal2.png",
       "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\visa.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\credit\\visa.png",
       "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\default-150x150.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\default-150x150.png",
       "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\icons.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\icons.png",
       "PackagePath": "staticwebassets\\dist\\img\\icons.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\logo.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\logo.png",
       "PackagePath": "staticwebassets\\dist\\img\\logo.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\logologin.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\logologin.png",
       "PackagePath": "staticwebassets\\dist\\img\\logologin.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo1.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo1.png",
       "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo2.png",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo2.png",
       "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo3.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo3.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo4.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\photo4.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-1.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-1.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-2.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-2.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-3.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-3.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-4.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-4.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-5.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\prod-5.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user1-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user2-160x160.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user3-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user4-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user5-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user6-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user7-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\img\\user8-128x128.jpg",
       "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\.eslintrc.json",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\.eslintrc.json",
       "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.js",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.js.map",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.min.js",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\adminlte.min.js.map",
       "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\demo.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\demo.js",
       "PackagePath": "staticwebassets\\dist\\js\\demo.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\pages\\dashboard.js",
       "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\pages\\dashboard2.js",
       "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\dist\\js\\pages\\dashboard3.js",
       "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\favicon.ico",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8d27bdd9-efe8-4c03-97a6-60f4dbb81904.jfif",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8d27bdd9-efe8-4c03-97a6-60f4dbb81904.jfif",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\8d27bdd9-efe8-4c03-97a6-60f4dbb81904.jfif"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\c5339379-9841-4463-8b1c-593a349f22e8.jfif",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\c5339379-9841-4463-8b1c-593a349f22e8.jfif",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\c5339379-9841-4463-8b1c-593a349f22e8.jfif"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\d7c7bdf3-d410-4f56-b8ad-b9ff7e0ac177.jfif",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\d7c7bdf3-d410-4f56-b8ad-b9ff7e0ac177.jfif",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\d7c7bdf3-d410-4f56-b8ad-b9ff7e0ac177.jfif"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\db6.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\db6.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\db6.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\db7.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\db7.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\db7.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\banner1.jfif",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\banner1.jfif",
       "PackagePath": "staticwebassets\\images\\admins\\customers\\banner1.jfif"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\db1.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\db1.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\customers\\db1.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\db3.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\db2.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\customers\\db2.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\db3.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\customers\\db3.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\op4.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\op4.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\customers\\op4.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\op5.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\op5.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\customers\\op5.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db2.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db2.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\db2.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db5.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db5.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\db5.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db6.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db6.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\db6.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db7.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db7.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\db7.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db8.webp",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db8.webp",
       "PackagePath": "staticwebassets\\images\\admins\\products\\db8.webp"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op1.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op1.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\op1.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op3.jpeg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op3.jpeg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\op3.jpeg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op4.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op4.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\op4.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op5.jpg",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op5.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\op5.jpg"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\js\\site.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -35,6 +35,8 @@ public partial class DsmmvcContext : DbContext
 
     public virtual DbSet<Introduction> Introductions { get; set; }
 
+    public virtual DbSet<Login> Logins { get; set; }
+
     public virtual DbSet<Material> Materials { get; set; }
 
     public virtual DbSet<News> News { get; set; }
@@ -44,6 +46,8 @@ public partial class DsmmvcContext : DbContext
     public virtual DbSet<Orderdetail> Orderdetails { get; set; }
 
     public virtual DbSet<Partner> Partners { get; set; }
+
+    public virtual DbSet<PaymentMethod> PaymentMethods { get; set; }
 
     public virtual DbSet<Product> Products { get; set; }
 
@@ -63,7 +67,7 @@ public partial class DsmmvcContext : DbContext
     {
         modelBuilder.Entity<AdminLog>(entity =>
         {
-            entity.HasKey(e => e.LogId).HasName("PK__ADMIN_LO__4364C8821441B9E8");
+            entity.HasKey(e => e.LogId).HasName("PK__ADMIN_LO__4364C882EA52F14F");
 
             entity.ToTable("ADMIN_LOG");
 
@@ -213,7 +217,7 @@ public partial class DsmmvcContext : DbContext
 
         modelBuilder.Entity<Cart>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Cart__3214EC07B4EC1CEB");
+            entity.HasKey(e => e.Id).HasName("PK__Cart__3214EC0701949CE2");
 
             entity.ToTable("Cart");
 
@@ -500,6 +504,16 @@ public partial class DsmmvcContext : DbContext
                 .HasColumnName("UPDATED_DATE");
         });
 
+        modelBuilder.Entity<Login>(entity =>
+        {
+            entity.HasKey(e => e.Email).HasName("PK__Login__A9D105350E67F005");
+
+            entity.ToTable("Login");
+
+            entity.Property(e => e.Email).HasMaxLength(255);
+            entity.Property(e => e.Password).HasMaxLength(255);
+        });
+
         modelBuilder.Entity<Material>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__MATERIAL___EXTENSION");
@@ -641,6 +655,10 @@ public partial class DsmmvcContext : DbContext
             entity.Property(e => e.TotalMoney)
                 .HasColumnType("decimal(18, 0)")
                 .HasColumnName("TOTAL_MONEY");
+
+            entity.HasOne(d => d.IdcustomerNavigation).WithMany(p => p.Orders)
+                .HasForeignKey(d => d.Idcustomer)
+                .HasConstraintName("FK_ORDERS_CUSTOMER");
         });
 
         modelBuilder.Entity<Orderdetail>(entity =>
@@ -658,11 +676,19 @@ public partial class DsmmvcContext : DbContext
             entity.Property(e => e.Total)
                 .HasColumnType("decimal(18, 0)")
                 .HasColumnName("TOTAL");
+
+            entity.HasOne(d => d.IdordNavigation).WithMany(p => p.Orderdetails)
+                .HasForeignKey(d => d.Idord)
+                .HasConstraintName("FK_ORDERDETAILS_ORDERS");
+
+            entity.HasOne(d => d.IdproductNavigation).WithMany(p => p.Orderdetails)
+                .HasForeignKey(d => d.Idproduct)
+                .HasConstraintName("FK_ORDERDETAILS_PRODUCT");
         });
 
         modelBuilder.Entity<Partner>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__PARTNER__3214EC272208709C");
+            entity.HasKey(e => e.Id).HasName("PK__PARTNER__3214EC27C93521F1");
 
             entity.ToTable("PARTNER");
 
@@ -701,6 +727,29 @@ public partial class DsmmvcContext : DbContext
             entity.Property(e => e.Url)
                 .HasMaxLength(255)
                 .HasColumnName("URL");
+        });
+
+        modelBuilder.Entity<PaymentMethod>(entity =>
+        {
+            entity
+                .HasNoKey()
+                .ToTable("PAYMENT_METHOD");
+
+            entity.Property(e => e.CreatedDate)
+                .HasColumnType("datetime")
+                .HasColumnName("CREATED_DATE");
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.Isactive).HasColumnName("ISACTIVE");
+            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
+            entity.Property(e => e.Name)
+                .HasMaxLength(250)
+                .HasColumnName("NAME");
+            entity.Property(e => e.Notes)
+                .HasColumnType("ntext")
+                .HasColumnName("NOTES");
+            entity.Property(e => e.UpdateDate)
+                .HasColumnType("datetime")
+                .HasColumnName("UPDATE_DATE");
         });
 
         modelBuilder.Entity<Product>(entity =>
@@ -813,7 +862,7 @@ public partial class DsmmvcContext : DbContext
 
         modelBuilder.Entity<Slide>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__SLIDES__3214EC27D6021CAE");
+            entity.HasKey(e => e.Id).HasName("PK__SLIDES__3214EC271B78F3F2");
 
             entity.ToTable("SLIDES");
 

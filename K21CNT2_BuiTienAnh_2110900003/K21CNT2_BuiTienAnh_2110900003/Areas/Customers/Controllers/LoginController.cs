@@ -37,7 +37,7 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
                 //HttpContext.Session.SetInt32("CustomersID", model.CustomersID);
                 HttpContext.Session.SetInt32("CustomersID", (int)dataLogin.Id);
 
-                return RedirectToAction("Index", "Dashboard", new { CustomersID = dataLogin.Id});
+                return RedirectToAction("Index", "Dashboard", new { CustomersID = dataLogin.Id });
             }
             else
             {

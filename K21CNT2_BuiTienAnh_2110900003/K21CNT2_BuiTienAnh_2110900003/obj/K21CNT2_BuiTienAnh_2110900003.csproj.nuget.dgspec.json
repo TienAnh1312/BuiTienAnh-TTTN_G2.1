@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj": {}
+    "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj": {}
   },
   "projects": {
-    "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj": {
+    "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj",
+        "projectUniqueName": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj",
         "projectName": "K21CNT2_BuiTienAnh_2110900003",
-        "projectPath": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj",
+        "projectPath": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-MVC\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\obj\\",
+        "outputPath": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

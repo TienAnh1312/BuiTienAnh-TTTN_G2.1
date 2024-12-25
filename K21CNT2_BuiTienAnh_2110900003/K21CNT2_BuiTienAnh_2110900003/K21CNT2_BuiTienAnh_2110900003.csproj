@@ -32,7 +32,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="Areas\Customers\Views\Shared\_NavBar.cshtml">
+    <Content Update="Areas\Customers\Views\Shared\_NavBarCustomers.cshtml">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
