@@ -1,0 +1,66 @@
+﻿@{
+    var pendingOrders = ViewBag.PendingOrders as List<K21CNT2_BuiTienAnh_2110900003.Models.Order>;
+    var approvedOrders = ViewBag.ApprovedOrders as List<K21CNT2_BuiTienAnh_2110900003.Models.Order>;
+}
+
+<h2>Danh sách đơn hàng</h2>
+
+<h3>Đơn hàng chưa phê duyệt</h3>
+@if (pendingOrders != null && pendingOrders.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Đơn hàng ID</th>
+                <th>Ngày đặt</th>
+                <th>Tổng tiền</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in pendingOrders)
+            {
+                <tr>
+                    <td>@order.Idorders</td>
+                    <td>@order.OrdersDate</td>
+                    <td>@order.TotalMoney</td>
+                    <td>Chờ phê duyệt</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Không có đơn hàng nào chưa được phê duyệt.</p>
+}
+
+<h3>Đơn hàng đã phê duyệt</h3>
+@if (approvedOrders != null && approvedOrders.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Đơn hàng ID</th>
+                <th>Ngày đặt</th>
+                <th>Tổng tiền</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in approvedOrders)
+            {
+                <tr>
+                    <td>@order.Idorders</td>
+                    <td>@order.OrdersDate</td>
+                    <td>@order.TotalMoney</td>
+                    <td>Đang giao</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Không có đơn hàng nào đã được phê duyệt.</p>
+}

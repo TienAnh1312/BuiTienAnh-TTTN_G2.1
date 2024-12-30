@@ -1,0 +1,42 @@
+﻿@model IEnumerable<K21CNT2_BuiTienAnh_2110900003.Models.Orderdetail>
+
+<h2>Danh sách chi tiết đơn hàng</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ảnh sản phẩm</th>
+            <th>Tên sản phẩm</th>
+            <th>Số lượng</th>
+            <th>Giá</th>
+            <th>Tổng tiền</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var orderDetail in Model)
+        {
+            <tr>
+                <td>
+                    <!-- Hiển thị ảnh sản phẩm -->
+                    @if (!string.IsNullOrEmpty(orderDetail.IdproductNavigation.Image))
+                    {
+                        <img src="~/@orderDetail.IdproductNavigation.Image" alt="Ảnh sản phẩm" width="50" height="50" />
+                    }
+                    else
+                    {
+                        <span>Không có ảnh</span>
+                    }
+                </td>
+                <td>@orderDetail.IdproductNavigation.Title</td>
+                <td>@orderDetail.Qty</td>
+                <td>@orderDetail.Price</td>
+                <td>@orderDetail.Total</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Orderdetails", new { id = orderDetail.Id })">Sửa</a> |
+                    <a href="@Url.Action("Delete", "Orderdetails", new { id = orderDetail.Id })">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

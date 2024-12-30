@@ -5,12 +5,13 @@
     var customer = ViewBag.Customer as K21CNT2_BuiTienAnh_2110900003.Models.Customer;
 }
 
+
 <style>
     .input-group-text {
         width: 100px !important;
     }
 </style>
-<form asp-action="OrderPay" asp-asp-controller="Cart" method="post">
+<form asp-action="OrderPay" asp-controller="Carts" method="post">
     <div class="row cart py-2">
         <h2 class="text-center my-2 py-2">ĐƠN HÀNG CỦA BẠN</h2>
         <div class="col-md-6">

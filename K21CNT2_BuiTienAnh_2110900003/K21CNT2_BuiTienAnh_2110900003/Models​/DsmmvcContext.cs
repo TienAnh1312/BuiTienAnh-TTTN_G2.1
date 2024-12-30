@@ -652,6 +652,7 @@ public partial class DsmmvcContext : DbContext
             entity.Property(e => e.Phone)
                 .HasMaxLength(50)
                 .HasColumnName("PHONE");
+            entity.Property(e => e.Status).HasColumnName("STATUS");
             entity.Property(e => e.TotalMoney)
                 .HasColumnType("decimal(18, 0)")
                 .HasColumnName("TOTAL_MONEY");
@@ -731,14 +732,14 @@ public partial class DsmmvcContext : DbContext
 
         modelBuilder.Entity<PaymentMethod>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("PAYMENT_METHOD");
+            entity.ToTable("PAYMENT_METHOD");
 
+            entity.Property(e => e.Id)
+                .ValueGeneratedNever()
+                .HasColumnName("ID");
             entity.Property(e => e.CreatedDate)
                 .HasColumnType("datetime")
                 .HasColumnName("CREATED_DATE");
-            entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.Isactive).HasColumnName("ISACTIVE");
             entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
             entity.Property(e => e.Name)

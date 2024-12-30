@@ -176,6 +176,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE5ld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Orderdetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyZGV0YWlsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Orderdetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyZGV0YWlsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Orderdetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyZGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Orderdetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyZGV0YWlsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Orderdetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyZGV0YWlsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -214,6 +234,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Partners/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBhcnRuZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/PaymentMethods/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBheW1lbnRNZXRob2RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/PaymentMethods/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBheW1lbnRNZXRob2RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/PaymentMethods/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBheW1lbnRNZXRob2RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/PaymentMethods/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBheW1lbnRNZXRob2RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/PaymentMethods/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBheW1lbnRNZXRob2RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Admins/Views/Products/Create.cshtml]
@@ -270,6 +310,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Customers/Views/Carts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXENhcnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Customers/Views/Carts/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXENhcnRzXE9yZGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Customers/Views/Carts/OrderPay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXENhcnRzXE9yZGVyUGF5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/BuiTienAnh/Học tập/BuiTienAnh-TH/BuiTienAnh-TTTN_G2.1/K21CNT2_BuiTienAnh_2110900003/K21CNT2_BuiTienAnh_2110900003/Areas/Customers/Views/Carts/Orders.cshtml]

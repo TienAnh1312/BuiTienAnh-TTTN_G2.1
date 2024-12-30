@@ -1,15 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using K21CNT2_BuiTienAnh_2110900003.Models;
-using K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers;
 
 namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
 {
+    [Area("Admins")]
     public class OrdersController : BaseController
     {
         private readonly DsmmvcContext _context;
@@ -20,28 +18,35 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         }
 
         // GET: Admins/Orders
-        public async Task<IActionResult> Index()
+        // Danh sách các đơn hàng chờ phê duyệt hoặc đã phê duyệt
+        public IActionResult Index(int? status)
         {
-            return View(await _context.Orders.ToListAsync());
+            // Nếu có tham số status, lọc đơn hàng theo trạng thái, nếu không thì mặc định là trạng thái "Chờ phê duyệt" (status = 0)
+            var orders = status.HasValue
+                ? _context.Orders.Where(o => o.Status == status.Value).ToList()
+                : _context.Orders.Where(o => o.Status == 0).ToList();  // Mặc định chỉ lấy đơn hàng chờ phê duyệt
+
+            ViewData["Title"] = status.HasValue && status.Value == 1 ? "Đơn hàng đã phê duyệt" : "Đơn hàng chờ phê duyệt";
+            return View(orders);
         }
 
-        // GET: Admins/Orders/Details/5
-        public async Task<IActionResult> Details(long? id)
+        // Chi tiết đơn hàng
+        public IActionResult Details(long id)
         {
-            if (id == null)
+            // Tìm đơn hàng theo Id
+            var order = _context.Orders.FirstOrDefault(o => o.Id == id);
             {
-                return NotFound();
-            }
-
-            var order = await _context.Orders
-                .FirstOrDefaultAsync(m => m.Id == id);
             if (order == null)
-            {
-                return NotFound();
+                return NotFound(); // Nếu không tìm thấy đơn hàng, trả về lỗi 404
             }
 
-            return View(order);
+            // Lấy chi tiết đơn hàng từ bảng Orderdetails bằng Id
+            var orderDetails = _context.Orderdetails.Where(od => od.Idord == order.Id).ToList();
+            ViewBag.OrderDetails = orderDetails; // Chuyển chi tiết đơn hàng cho view
+
+            return View(order); // Trả về view với đơn hàng và chi tiết đơn hàng
         }
+
 
         // GET: Admins/Orders/Create
         public IActionResult Create()
@@ -50,11 +55,9 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         }
 
         // POST: Admins/Orders/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Idorders,OrdersDate,Idcustomer,Idpayment,TotalMoney,Notes,NameReciver,Address,Email,Phone,Isdelete,Isactive")] Order order)
+        public async Task<IActionResult> Create([Bind("Id,Idorders,OrdersDate,Idcustomer,Idpayment,TotalMoney,Notes,NameReciver,Address,Email,Phone,Isdelete,Isactive,Status")] Order order)
         {
             if (ModelState.IsValid)
             {
@@ -82,11 +85,9 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         }
 
         // POST: Admins/Orders/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(long id, [Bind("Id,Idorders,OrdersDate,Idcustomer,Idpayment,TotalMoney,Notes,NameReciver,Address,Email,Phone,Isdelete,Isactive")] Order order)
+        public async Task<IActionResult> Edit(long id, [Bind("Id,Idorders,OrdersDate,Idcustomer,Idpayment,TotalMoney,Notes,NameReciver,Address,Email,Phone,Isdelete,Isactive,Status")] Order order)
         {
             if (id != order.Id)
             {
@@ -125,7 +126,9 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
             }
 
             var order = await _context.Orders
+                .Include(o => o.Orderdetails) // Bao gồm Orderdetails
                 .FirstOrDefaultAsync(m => m.Id == id);
+
             if (order == null)
             {
                 return NotFound();
@@ -139,19 +142,63 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(long id)
         {
-            var order = await _context.Orders.FindAsync(id);
+            var order = await _context.Orders
+                .Include(o => o.Orderdetails) // Bao gồm Orderdetails
+                .FirstOrDefaultAsync(m => m.Id == id);
+
             if (order != null)
             {
-                _context.Orders.Remove(order);
+                try
+                {
+                    // Xóa các chi tiết đơn hàng liên quan
+                    var orderDetails = order.Orderdetails.ToList();
+                    _context.Orderdetails.RemoveRange(orderDetails);  // Xóa tất cả các Orderdetail liên quan
+
+                    // Sau đó, xóa đơn hàng
+                    _context.Orders.Remove(order);  // Xóa đơn hàng
+                    await _context.SaveChangesAsync();  // Lưu thay đổi
+
+                    TempData["SuccessMessage"] = "Đơn hàng và các chi tiết đã được xóa thành công!";
+                }
+                catch (Exception ex)
+                {
+                    TempData["ErrorMessage"] = "Đã xảy ra lỗi khi xóa đơn hàng: " + ex.Message;
+                }
+            }
+            else
+            {
+                TempData["ErrorMessage"] = "Không tìm thấy đơn hàng để xóa!";
             }
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool OrderExists(long id)
         {
             return _context.Orders.Any(e => e.Id == id);
+        }
+
+        // Phê duyệt đơn hàng
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Approve(long id)
+        {
+            var order = await _context.Orders.FindAsync(id);
+            if (order == null)
+            {
+                return NotFound();
+            }
+
+            // Cập nhật trạng thái đơn hàng thành "Đã phê duyệt" (Status = 1)
+            order.Status = 1;
+            _context.Update(order);
+            await _context.SaveChangesAsync();
+
+            // Thông báo khi phê duyệt thành công
+            TempData["SuccessMessage"] = "Đơn hàng đã được phê duyệt thành công!";
+
+            // Quay lại danh sách các đơn hàng đã phê duyệt mà không cần tải lại trang
+            return RedirectToAction(nameof(Index), new { status = 1 });  // Trả về danh sách đơn hàng đã phê duyệt
         }
     }
 }

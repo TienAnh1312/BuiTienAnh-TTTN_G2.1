@@ -1,0 +1,42 @@
+﻿@model K21CNT2_BuiTienAnh_2110900003.Models.PaymentMethod
+
+@{
+    ViewData["Title"] = "Payment Method Details";
+}
+
+<h2>Payment Method Details</h2>
+
+<div>
+    <h4>PaymentMethod</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Name
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            Notes
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+        <dt class="col-sm-2">
+            Created Date
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+        <dt class="col-sm-2">
+            Is Active
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Isactive)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

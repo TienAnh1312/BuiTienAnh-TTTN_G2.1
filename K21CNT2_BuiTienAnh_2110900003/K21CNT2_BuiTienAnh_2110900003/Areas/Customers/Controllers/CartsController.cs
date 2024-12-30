@@ -153,6 +153,7 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
         }
 
         // Thanh toán đơn hàng
+        // Thanh toán đơn hàng
         public async Task<IActionResult> OrderPay(IFormCollection form)
         {
             try
@@ -173,14 +174,20 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
                     Address = form["Address"],
                     Notes = form["Notes"],
                     OrdersDate = DateTime.Now,
-                    Idpayment = !string.IsNullOrEmpty(form["IdPayment"]) ? long.Parse(form["IdPayment"]) : 1
+                    Idpayment = !string.IsNullOrEmpty(form["IdPayment"]) ? long.Parse(form["IdPayment"]) : 1,
+                    Status = 0 // Trạng thái 0: Chờ phê duyệt
                 };
 
-                var customerSession = HttpContext.Session.GetString("CustomersID");
-                if (!string.IsNullOrEmpty(customerSession))
+                var customerIdSession = HttpContext.Session.GetInt32("CustomersID");
+
+                if (customerIdSession.HasValue)
                 {
-                    var dataMember = JsonConvert.DeserializeObject<Customer>(customerSession);
-                    order.Idcustomer = dataMember.Id;
+                    order.Idcustomer = customerIdSession.Value;
+                }
+                else
+                {
+                    // Nếu không có khách hàng trong session, yêu cầu đăng nhập
+                    return RedirectToAction("Index");
                 }
 
                 decimal total = carts.Sum(item => item.Quantity * (decimal)item.Price);
@@ -213,14 +220,46 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
                 HttpContext.Session.Remove("My-Cart");
                 HttpContext.Session.Remove("CartCount");
 
+                TempData["SuccessMessage"] = "Đơn hàng của bạn đã được gửi đi và đang chờ phê duyệt!";
             }
             catch (Exception ex)
             {
-                // Xử lý lỗi nếu có
-                throw;
+                TempData["ErrorMessage"] = "Đã có lỗi xảy ra trong quá trình thanh toán.";
             }
 
             return View();
         }
+        // Trang hiển thị danh sách đơn hàng của khách hàng
+        public IActionResult OrderDetails()
+        {
+            // Lấy thông tin người dùng từ session
+            var customerIdSession = HttpContext.Session.GetInt32("CustomersID");
+            if (!customerIdSession.HasValue)
+            {
+                return Redirect("/customers/Login/index/?url=/carts/orderdetails");
+            }
+
+            var dataMember = _context.Customers.FirstOrDefault(x => x.Id == customerIdSession.Value);
+            if (dataMember == null)
+            {
+                return Redirect("/customers/Login/index/?url=/carts/orderdetails");
+            }
+
+            // Lấy danh sách đơn hàng của khách hàng, phân loại theo trạng thái
+            var orders = _context.Orders
+                .Where(o => o.Idcustomer == customerIdSession.Value)
+                .OrderByDescending(o => o.OrdersDate) // Sắp xếp theo ngày đặt hàng
+                .ToList();
+
+            // Chia đơn hàng theo trạng thái: đã phê duyệt và chưa phê duyệt
+            var pendingOrders = orders.Where(o => o.Status == 0).ToList();  // Đơn hàng chưa phê duyệt
+            var approvedOrders = orders.Where(o => o.Status == 1).ToList(); // Đơn hàng đã phê duyệt
+
+            ViewBag.PendingOrders = pendingOrders;
+            ViewBag.ApprovedOrders = approvedOrders;
+
+            return View();
+        }
+
     }
 }

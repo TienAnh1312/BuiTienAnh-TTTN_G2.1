@@ -5,7 +5,7 @@ namespace K21CNT2_BuiTienAnh_2110900003.Models​;
 
 public partial class PaymentMethod
 {
-    public long? Id { get; set; }
+    public long Id { get; set; }
 
     public string? Name { get; set; }
 

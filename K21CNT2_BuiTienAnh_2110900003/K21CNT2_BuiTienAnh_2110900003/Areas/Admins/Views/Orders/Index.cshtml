@@ -1,101 +1,73 @@
 ﻿@model IEnumerable<K21CNT2_BuiTienAnh_2110900003.Models.Order>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Danh sách đơn hàng";
 }
 
-<h1>Index</h1>
+<h1>Danh sách đơn hàng</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Index" asp-route-status="0">Đơn hàng chờ phê duyệt</a> |
+    <a asp-action="Index" asp-route-status="1">Đơn hàng đã phê duyệt</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Idorders)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.OrdersDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Idcustomer)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Idpayment)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TotalMoney)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Notes)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NameReciver)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Address)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Email)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Phone)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Isdelete)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Isactive)
-            </th>
-            <th>Chức năng</th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Idorders)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.OrdersDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Idcustomer)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Idpayment)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TotalMoney)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Notes)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NameReciver)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Address)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Email)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Phone)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Isdelete)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Isactive)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Idorders)</th>
+                <th>@Html.DisplayNameFor(model => model.OrdersDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Idcustomer)</th>
+                <th>@Html.DisplayNameFor(model => model.TotalMoney)</th>
+                <th>@Html.DisplayNameFor(model => model.NameReciver)</th>
+                <th>@Html.DisplayNameFor(model => model.Status)</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Idorders)</td>
+                    <td>@Html.DisplayFor(modelItem => item.OrdersDate)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TotalMoney)</td>
+                    <td>@Html.DisplayFor(modelItem => item.NameReciver)</td>
+                    <td>
+                        @if (item.Status == 0)
+                        {
+                            <span class="text-warning">Chờ phê duyệt</span>
+                        }
+                        else if (item.Status == 1)
+                        {
+                            <span class="text-success">Đã phê duyệt</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Chi tiết</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a> |
+                        @if (item.Status == 0)
+                        {
+                            <form method="post" asp-action="Approve" asp-route-id="@item.Id" style="display:inline;">
+                                <button type="submit" class="btn btn-success btn-sm">Phê duyệt</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
 }
-    </tbody>
-</table>
+else
+{
+    <p>Không có đơn hàng nào để hiển thị.</p>
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}

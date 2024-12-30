@@ -31,6 +31,8 @@ public partial class Order
 
     public byte? Isactive { get; set; }
 
+    public long? Status { get; set; }
+
     public virtual Customer? IdcustomerNavigation { get; set; }
 
     public virtual ICollection<Orderdetail> Orderdetails { get; set; } = new List<Orderdetail>();
