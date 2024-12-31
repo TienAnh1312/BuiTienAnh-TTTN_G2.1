@@ -238,7 +238,10 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
             }
             return View(product);
         }
-
+        private bool ProductExists(int id)
+        {
+            return _context.Products.Any(e => e.Id == id);
+        }
         // GET: Admins/Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -257,24 +260,37 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
             return View(product);
         }
 
-        // POST: Admins/Products/Delete/5
+        // POST: Admins/Products/DeleteConfirmed/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
+            // Tìm sản phẩm cần xóa
             var product = await _context.Products.FindAsync(id);
-            if (product != null)
+
+            if (product == null)
             {
-                _context.Products.Remove(product);
+                return NotFound(); // Trả về NotFound nếu sản phẩm không tồn tại
             }
 
-            await _context.SaveChangesAsync();
+            // Chỉ xóa sản phẩm trong bảng Products
+            _context.Products.Remove(product);
+
+            try
+            {
+                // Lưu thay đổi vào cơ sở dữ liệu
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateException ex)
+            {
+                // Xử lý lỗi khi xóa nếu có liên kết với dữ liệu khác hoặc vấn đề cơ sở dữ liệu
+                ModelState.AddModelError(string.Empty, "Không thể xóa sản phẩm vì có lỗi xảy ra.");
+                return View(product); // Trả lại view với thông báo lỗi
+            }
+
+            // Điều hướng về trang Index sau khi xóa thành công
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProductExists(int id)
-        {
-            return _context.Products.Any(e => e.Id == id);
-        }
     }
 }

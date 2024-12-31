@@ -232,7 +232,6 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
         // Trang hiển thị danh sách đơn hàng của khách hàng
         public IActionResult OrderDetails()
         {
-            // Lấy thông tin người dùng từ session
             var customerIdSession = HttpContext.Session.GetInt32("CustomersID");
             if (!customerIdSession.HasValue)
             {
@@ -245,18 +244,18 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
                 return Redirect("/customers/Login/index/?url=/carts/orderdetails");
             }
 
-            // Lấy danh sách đơn hàng của khách hàng, phân loại theo trạng thái
             var orders = _context.Orders
                 .Where(o => o.Idcustomer == customerIdSession.Value)
-                .OrderByDescending(o => o.OrdersDate) // Sắp xếp theo ngày đặt hàng
+                .OrderByDescending(o => o.OrdersDate)
                 .ToList();
 
-            // Chia đơn hàng theo trạng thái: đã phê duyệt và chưa phê duyệt
-            var pendingOrders = orders.Where(o => o.Status == 0).ToList();  // Đơn hàng chưa phê duyệt
-            var approvedOrders = orders.Where(o => o.Status == 1).ToList(); // Đơn hàng đã phê duyệt
+            var pendingOrders = orders.Where(o => o.Status == 0).ToList();  // Chờ phê duyệt
+            var approvedOrders = orders.Where(o => o.Status == 1).ToList(); // Đang giao
+            var deliveredOrders = orders.Where(o => o.Status == 2).ToList(); // Đã giao
 
             ViewBag.PendingOrders = pendingOrders;
             ViewBag.ApprovedOrders = approvedOrders;
+            ViewBag.DeliveredOrders = deliveredOrders;
 
             return View();
         }

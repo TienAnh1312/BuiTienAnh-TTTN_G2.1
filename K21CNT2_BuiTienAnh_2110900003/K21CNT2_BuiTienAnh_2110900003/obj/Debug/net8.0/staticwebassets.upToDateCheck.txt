@@ -86,7 +86,9 @@ wwwroot\images\admins\customers\db2.jpg
 wwwroot\images\admins\customers\db3.jpg
 wwwroot\images\admins\customers\op4.jpg
 wwwroot\images\admins\customers\op5.jpg
+wwwroot\images\admins\products\db1.jpg
 wwwroot\images\admins\products\db2.jpg
+wwwroot\images\admins\products\db4.jpg
 wwwroot\images\admins\products\db5.jpg
 wwwroot\images\admins\products\db6.jpg
 wwwroot\images\admins\products\db7.jpg
@@ -95,6 +97,7 @@ wwwroot\images\admins\products\op1.jpg
 wwwroot\images\admins\products\op3.jpeg
 wwwroot\images\admins\products\op4.jpg
 wwwroot\images\admins\products\op5.jpg
+wwwroot\images\admins\products\vv.jfif
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

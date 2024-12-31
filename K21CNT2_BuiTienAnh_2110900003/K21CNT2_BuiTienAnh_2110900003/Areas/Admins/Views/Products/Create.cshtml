@@ -18,11 +18,19 @@
                 <label for="Cid" class="control-label">Danh mục</label>
                 <select asp-for="Cid" class="form-control">
                     <option value="">Chọn Danh mục</option>
-                    @foreach (var category in ViewData["Categoriess"] as List<SelectListItem>)
+                    @if (ViewData["Categoriess"] != null)
                     {
-                        <option value="@category.Value">@category.Text</option>
+                        var categories = ViewData["Categoriess"] as List<SelectListItem>;
+                        if (categories != null)
+                        {
+                            foreach (var category in categories)
+                            {
+                                <option value="@category.Value">@category.Text</option>
+                            }
+                        }
                     }
                 </select>
+
                 <span asp-validation-for="Cid" class="text-danger"></span>
             </div>
 

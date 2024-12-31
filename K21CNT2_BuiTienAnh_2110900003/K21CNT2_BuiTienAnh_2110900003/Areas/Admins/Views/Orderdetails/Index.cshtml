@@ -34,7 +34,21 @@
                 <td>@orderDetail.Total</td>
                 <td>
                     <a href="@Url.Action("Edit", "Orderdetails", new { id = orderDetail.Id })">Sửa</a> |
-                    <a href="@Url.Action("Delete", "Orderdetails", new { id = orderDetail.Id })">Xóa</a>
+                    <a href="@Url.Action("Details", "Orderdetails", new { id = orderDetail.Id })">Chi tiết</a> |
+                    <a href="@Url.Action("Delete", "Orderdetails", new { id = orderDetail.Id })">Xóa</a> |
+
+                    <!-- Kiểm tra trạng thái đơn hàng và hiển thị nút Đã giao nếu đang giao -->
+                    @if (orderDetail.IdordNavigation.Status == 1) 
+                    {
+                        <!-- Nút bấm để đánh dấu đơn hàng đã giao -->
+                        <a href="@Url.Action("MarkAsDelivered", "Orderdetails", new { id = orderDetail.Id })" class="btn btn-success">
+                            Đã giao
+                        </a>
+                    }
+                    else if (orderDetail.IdordNavigation.Status == 2)  
+                    {
+                        <span>Đã giao</span>
+                    }
                 </td>
             </tr>
         }

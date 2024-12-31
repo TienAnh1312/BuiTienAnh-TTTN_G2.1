@@ -14,10 +14,12 @@ public partial class Orderdetail
     public decimal? Price { get; set; }
 
     public int? Qty { get; set; }
-        
+
     public decimal? Total { get; set; }
 
     public int? ReturnQty { get; set; }
+
+    public long? Status { get; set; }
 
     public virtual Order? IdordNavigation { get; set; }
 

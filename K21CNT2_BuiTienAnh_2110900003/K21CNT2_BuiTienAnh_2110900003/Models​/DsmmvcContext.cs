@@ -674,6 +674,7 @@ public partial class DsmmvcContext : DbContext
                 .HasColumnName("PRICE");
             entity.Property(e => e.Qty).HasColumnName("QTY");
             entity.Property(e => e.ReturnQty).HasColumnName("RETURN_QTY");
+            entity.Property(e => e.Status).HasColumnName("STATUS");
             entity.Property(e => e.Total)
                 .HasColumnType("decimal(18, 0)")
                 .HasColumnName("TOTAL");

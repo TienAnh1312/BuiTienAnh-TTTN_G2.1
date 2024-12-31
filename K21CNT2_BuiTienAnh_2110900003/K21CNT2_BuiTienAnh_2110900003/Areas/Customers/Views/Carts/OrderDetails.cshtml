@@ -1,66 +1,88 @@
 ﻿@{
     var pendingOrders = ViewBag.PendingOrders as List<K21CNT2_BuiTienAnh_2110900003.Models.Order>;
     var approvedOrders = ViewBag.ApprovedOrders as List<K21CNT2_BuiTienAnh_2110900003.Models.Order>;
+    var deliveredOrders = ViewBag.DeliveredOrders as List<K21CNT2_BuiTienAnh_2110900003.Models.Order>;
 }
 
-<h2>Danh sách đơn hàng</h2>
 
-<h3>Đơn hàng chưa phê duyệt</h3>
-@if (pendingOrders != null && pendingOrders.Count > 0)
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Đơn hàng ID</th>
-                <th>Ngày đặt</th>
-                <th>Tổng tiền</th>
-                <th>Trạng thái</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var order in pendingOrders)
-            {
+<h2 class="text-center my-4">Danh sách đơn hàng</h2>
+
+<div class="container">
+    <!-- Pending Orders -->
+    @if (pendingOrders != null && pendingOrders.Count > 0)
+    {
+        <table class="table pending-orders">
+            <thead>
                 <tr>
-                    <td>@order.Idorders</td>
-                    <td>@order.OrdersDate</td>
-                    <td>@order.TotalMoney</td>
-                    <td>Chờ phê duyệt</td>
+                    <th>Đơn hàng ID</th>
+                    <th>Ngày đặt</th>
+                    <th>Tổng tiền</th>
+                    <th>Trạng thái</th>
                 </tr>
-            }
-        </tbody>
-    </table>
-}
-else
-{
-    <p>Không có đơn hàng nào chưa được phê duyệt.</p>
-}
+            </thead>
+            <tbody>
+                @foreach (var order in pendingOrders)
+                {
+                    <tr>
+                        <td>@order.Idorders</td>
+                        <td>@order.OrdersDate</td>
+                        <td>@string.Format("{0:#,##0}", order.TotalMoney) VNĐ</td>
+                        <td>Chờ phê duyệt</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
 
-<h3>Đơn hàng đã phê duyệt</h3>
-@if (approvedOrders != null && approvedOrders.Count > 0)
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Đơn hàng ID</th>
-                <th>Ngày đặt</th>
-                <th>Tổng tiền</th>
-                <th>Trạng thái</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var order in approvedOrders)
-            {
+    <!-- Approved Orders -->
+    @if (approvedOrders != null && approvedOrders.Count > 0)
+    {
+        <table class="table approved-orders">
+            <thead>
                 <tr>
-                    <td>@order.Idorders</td>
-                    <td>@order.OrdersDate</td>
-                    <td>@order.TotalMoney</td>
-                    <td>Đang giao</td>
+                    <th>Đơn hàng ID</th>
+                    <th>Ngày đặt</th>
+                    <th>Tổng tiền</th>
+                    <th>Trạng thái</th>
                 </tr>
-            }
-        </tbody>
-    </table>
-}
-else
-{
-    <p>Không có đơn hàng nào đã được phê duyệt.</p>
-}
+            </thead>
+            <tbody>
+                @foreach (var order in approvedOrders)
+                {
+                    <tr>
+                        <td>@order.Idorders</td>
+                        <td>@order.OrdersDate</td>
+                        <td>@string.Format("{0:#,##0}", order.TotalMoney) VNĐ</td>
+                        <td>Đang giao</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <!-- Delivered Orders -->
+    @if (deliveredOrders != null && deliveredOrders.Count > 0)
+    {
+        <table class="table delivered-orders">
+            <thead>
+                <tr>
+                    <th>Đơn hàng ID</th>
+                    <th>Ngày đặt</th>
+                    <th>Tổng tiền</th>
+                    <th>Trạng thái</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in deliveredOrders)
+                {
+                    <tr>
+                        <td>@order.Idorders</td>
+                        <td>@order.OrdersDate</td>
+                        <td>@string.Format("{0:#,##0}", order.TotalMoney) VNĐ</td>
+                        <td>Đã giao</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

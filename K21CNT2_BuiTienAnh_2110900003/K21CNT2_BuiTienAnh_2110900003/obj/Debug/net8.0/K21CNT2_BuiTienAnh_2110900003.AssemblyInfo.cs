@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("K21CNT2_BuiTienAnh_2110900003")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebaa423474fc6316943814c06fc1c99caf26dd25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72d197872ffaa6f5a5d910209639d950a003be5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("K21CNT2_BuiTienAnh_2110900003")]
 [assembly: System.Reflection.AssemblyTitleAttribute("K21CNT2_BuiTienAnh_2110900003")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

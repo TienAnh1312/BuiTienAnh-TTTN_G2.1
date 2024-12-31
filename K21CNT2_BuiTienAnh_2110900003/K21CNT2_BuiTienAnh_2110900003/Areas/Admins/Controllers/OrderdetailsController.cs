@@ -195,5 +195,40 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        // Thêm hành động MarkAsDelivered để đánh dấu trạng thái "Đã giao"
+        public async Task<IActionResult> MarkAsDelivered(long id)
+        {
+            // Lấy thông tin chi tiết đơn hàng
+            var orderDetail = await _context.Orderdetails.FirstOrDefaultAsync(od => od.Id == id);
+
+            if (orderDetail == null)
+            {
+                return NotFound();
+            }
+
+            // Lấy thông tin đơn hàng liên quan
+            var order = await _context.Orders.FirstOrDefaultAsync(o => o.Id == orderDetail.Idord);
+
+            if (order == null)
+            {
+                return NotFound();
+            }
+
+            // Kiểm tra nếu đơn hàng đang giao, thay đổi trạng thái
+            if (order.Status == 1) // Giả sử 2 là trạng thái "Đang giao"
+            {
+                order.Status = 2; // Giả sử 3 là trạng thái "Đã giao"
+                _context.Orders.Update(order);
+                await _context.SaveChangesAsync();
+
+                // Thông báo thành công
+                TempData["SuccessMessage"] = "Đơn hàng đã được đánh dấu là đã giao!";
+            }
+
+            // Chuyển hướng về trang chi tiết đơn hàng hoặc nơi bạn cần
+            return RedirectToAction("Index", "Orderdetails");
+        }
+
     }
 }
