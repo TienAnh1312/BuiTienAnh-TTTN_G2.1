@@ -17,6 +17,10 @@ public partial class ProductReview
 
     public DateTime? CreatedAt { get; set; }
 
+    public int? CurrentPage { get; set; }
+
+    public int? TotalPages { get; set; }
+
     public virtual Customer Customer { get; set; } = null!;
 
     public virtual Product Product { get; set; } = null!;

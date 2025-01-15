@@ -35,7 +35,7 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
         }
 
         // GET: Products/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(int? id, int page = 1)
         {
             if (id == null)
             {
@@ -44,7 +44,6 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
 
             var product = await _context.Products
                 .Include(p => p.ProductReviews)
-                    .ThenInclude(r => r.Customer) // Để hiển thị tên khách hàng
                 .FirstOrDefaultAsync(m => m.Id == id);
 
             if (product == null)
@@ -52,6 +51,22 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
                 return NotFound();
             }
 
+            int pageSize = 3; // Define the number of reviews per page
+            var reviews = _context.ProductReviews
+                .Where(r => r.ProductId == id)
+                .Include(r => r.Customer)
+                .OrderByDescending(r => r.CreatedAt) // Optional: Sort reviews by creation date
+                .Skip((page - 1) * pageSize) // Skip the reviews from the previous pages
+                .Take(pageSize); // Take the reviews for the current page
+
+            var totalReviews = await _context.ProductReviews.CountAsync(r => r.ProductId == id);
+            var totalPages = (int)Math.Ceiling(totalReviews / (double)pageSize);
+
+            // Pass the reviews and pagination data to the view
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            product.ProductReviews = await reviews.ToListAsync();
             return View(product);
         }
 

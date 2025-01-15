@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +71,16 @@
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\dsmmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\momocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\momocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\productreviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -57,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -91,32 +135,12 @@
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\orderdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\orderdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\partnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +153,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,10 +171,6 @@
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -165,10 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\models\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -195,10 +207,6 @@
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\momocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\momocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\models\\momopaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\models\\momopaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -219,10 +227,6 @@
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\customers\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -233,10 +237,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\models\\loginadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\areas\\admins\\models\\loginadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\models\u200B\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|solutionrelative:k21cnt2_buitienanh_2110900003\\models\u200B\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20C70552-39B0-4BEF-A6E9-1ABA0F544436}|K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-tttn_g2.1\\k21cnt2_buitienanh_2110900003\\k21cnt2_buitienanh_2110900003\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -446,7 +446,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -458,68 +458,254 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Orderdetail.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:45:58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductReview.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\ProductReview.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\ProductReview.cs",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\ProductReview.cs",
               "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\ProductReview.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T11:06:02.426Z"
+              "WhenOpened": "2025-01-14T11:06:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAAwCABAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:58:16.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:30:45.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAAMoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:31:35.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductReviewsController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAAwL0AAAAOAAAAAAAAAA==",
+              "Title": "OrderdetailsController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAQwO0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T11:05:02.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T08:13:36.338Z"
+              "WhenOpened": "2024-12-30T08:40:23.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:32:08.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:55:37.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "News.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:55:15.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:15:04.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:51:44.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Products\\Details.cshtml",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAUwI8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAQwA8BAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-22T09:57:12.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:33:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductReviewsController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductReviewsController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:05:02.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAwP8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:58:09.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDkAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:58:08.235Z"
+              "WhenOpened": "2024-12-19T06:58:08.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
+              "Title": "DsmmvcContext.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:13:02.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T02:36:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MomoController.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:14:49.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Product.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Product.cs",
@@ -531,43 +717,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Customer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:15:04.212Z"
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
+              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\ProductReviews\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T08:13:36.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DsmmvcContext.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\DsmmvcContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:13:02.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T01:33:32.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "_SideBar.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
@@ -579,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "_NavBarCustomers.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Shared\\_NavBarCustomers.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Shared\\_NavBarCustomers.cshtml",
@@ -591,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Products\\Index.cshtml",
@@ -603,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CustomersController.cs",
@@ -615,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\RegisterController.cs",
@@ -627,19 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CartsController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\CartsController.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAA9wIoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T10:58:09.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\Index.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\Index.cshtml",
@@ -651,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Orders.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\Orders.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\Orders.cshtml",
@@ -663,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "OrderPay.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\OrderPay.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\OrderPay.cshtml",
@@ -675,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "OrderDetails.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\OrderDetails.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Carts\\OrderDetails.cshtml",
@@ -687,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Customers\\Edit.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Customers\\Edit.cshtml",
@@ -699,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "ProductReviewsController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductReviewsController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductReviewsController.cs",
@@ -711,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Dashboard\\Index.cshtml",
@@ -723,19 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAkBAAAAAAAAAAAAwBwBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:58:16.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Orderdetails\\Index.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Orderdetails\\Index.cshtml",
@@ -747,31 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T02:36:31.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "OrderdetailsController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrderdetailsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T08:40:23.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "PaymentMethodsController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\PaymentMethodsController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\PaymentMethodsController.cs",
@@ -783,31 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Orderdetail.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Orderdetail.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T02:45:58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAqwMkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:32:08.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "PartnersController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\PartnersController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\PartnersController.cs",
@@ -819,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Orders\\Index.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Orders\\Index.cshtml",
@@ -831,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
@@ -843,19 +933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAAAMoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:31:35.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\DashboardController.cs",
@@ -867,7 +945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "_NavBar.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
@@ -879,7 +957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "_Admins.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
@@ -891,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\_ViewImports.cshtml",
@@ -903,19 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:30:45.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "BaseController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\BaseController.cs",
@@ -927,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "BannersController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\BannersController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\BannersController.cs",
@@ -939,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "AdminUsersController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
@@ -951,19 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Cart.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:51:44.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "VnPayLibrary.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Models\\VnPayLibrary.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Models\\VnPayLibrary.cs",
@@ -975,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "ThanhToanController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ThanhToanController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\ThanhToanController.cs",
@@ -987,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\PaymentMethod.cs",
@@ -999,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "LoginCustomers.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Models\\LoginCustomers.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Models\\LoginCustomers.cs",
@@ -1011,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "UtilsController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\UtilsController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\UtilsController.cs",
@@ -1023,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Views\\Products\\Create.cshtml",
@@ -1035,19 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "MomoController.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\MomoController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwEwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T07:14:49.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "MoMoPaymentRequest.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Models\\MoMoPaymentRequest.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Models\\MoMoPaymentRequest.cs",
@@ -1059,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Program.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Program.cs",
@@ -1071,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\ScaffoldingReadMe.txt",
@@ -1083,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Views\\Shared\\Error.cshtml",
@@ -1095,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "BaseController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\BaseController.cs",
@@ -1107,19 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\Order.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:55:37.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Controllers\\DashboardController.cs",
@@ -1131,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "_Customer.cshtml",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Shared\\_Customer.cshtml",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Customers\\Views\\Shared\\_Customer.cshtml",
@@ -1143,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "LoginAdmins.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Models\\LoginAdmins.cs",
               "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Areas\\Admins\\Models\\LoginAdmins.cs",
@@ -1152,18 +1182,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T06:45:44.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "News.cs",
-              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
-              "RelativeDocumentMoniker": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
-              "RelativeToolTip": "K21CNT2_BuiTienAnh_2110900003\\Models\u200B\\News.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:55:15.19Z"
             },
             {
               "$type": "Document",

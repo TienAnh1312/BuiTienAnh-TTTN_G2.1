@@ -20,11 +20,29 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
         }
 
         // GET: Customers/ProductReviews
-        public async Task<IActionResult> Index()
+        // GET: Customers/ProductReviews
+        public async Task<IActionResult> Index(int page = 1)
         {
-            var dsmmvcContext = _context.ProductReviews.Include(p => p.Customer).Include(p => p.Product);
-            return View(await dsmmvcContext.ToListAsync());
+            int pageSize = 5; // Define the number of reviews per page
+            var productReviews = _context.ProductReviews
+                .Include(p => p.Customer)
+                .Include(p => p.Product)
+                .OrderByDescending(r => r.CreatedAt) // Optional: Order by date or rating
+                .Skip((page - 1) * pageSize) // Skip previous pages' reviews
+                .Take(pageSize); // Take reviews for the current page
+
+            // Calculate total pages for pagination
+            var totalReviews = await _context.ProductReviews.CountAsync();
+            var totalPages = (int)Math.Ceiling(totalReviews / (double)pageSize);
+
+            // Pass pagination data to the view
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            return View(await productReviews.ToListAsync());
         }
+
+
 
         // GET: Customers/ProductReviews/Details/5
         public async Task<IActionResult> Details(int? id)
