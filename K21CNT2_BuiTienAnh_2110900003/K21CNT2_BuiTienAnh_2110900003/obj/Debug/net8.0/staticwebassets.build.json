@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NzBUdwQuemhiySYYjBG3HctCzF2/+E5GrFBLg++NNm0=",
+  "Hash": "85DMYeMkR8BAszWCWG5yUs8IKyDcl6sQcIVINHGw4jg=",
   "Source": "K21CNT2_BuiTienAnh_2110900003",
   "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
   "Mode": "Default",
@@ -1655,6 +1655,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\39afaa65-bfde-482b-a698-364a0ca443e1.png",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/banners/39afaa65-bfde-482b-a698-364a0ca443e1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sn3r4xg4u9",
+      "Integrity": "SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\39afaa65-bfde-482b-a698-364a0ca443e1.png"
+    },
+    {
       "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif",
       "SourceId": "K21CNT2_BuiTienAnh_2110900003",
       "SourceType": "Discovered",
@@ -1674,6 +1695,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6cc766ae-75db-4551-a2c4-72e80219687f.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/banners/6cc766ae-75db-4551-a2c4-72e80219687f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gdn3yvtrdk",
+      "Integrity": "7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\6cc766ae-75db-4551-a2c4-72e80219687f.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\74c09e37-ce22-4bea-806e-91071b94aae8.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/banners/74c09e37-ce22-4bea-806e-91071b94aae8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ah6d3rimn",
+      "Integrity": "BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\74c09e37-ce22-4bea-806e-91071b94aae8.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8052e474-8499-4719-b5e3-5eb1321178ef.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/banners/8052e474-8499-4719-b5e3-5eb1321178ef#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mg3tobe7xx",
+      "Integrity": "OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\8052e474-8499-4719-b5e3-5eb1321178ef.jpg"
     },
     {
       "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8d27bdd9-efe8-4c03-97a6-60f4dbb81904.jfif",
@@ -1779,6 +1863,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\db7.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/banners/e75f0092-6994-4210-a1c4-9b2e9d059f40#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qeyxk2nmb",
+      "Integrity": "8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/banners/f3a28ddb-529b-41f1-9948-5a7c443fe273#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iq8ykaeg88",
+      "Integrity": "RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\banners\\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg"
     },
     {
       "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\banner1.jfif",
@@ -1905,6 +2031,258 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\admins\\customers\\op5.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayChuoiCanh.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/CayChuoiCanh#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrfu9zkxtp",
+      "Integrity": "qr8K6EpoOWagYCMJ3lOtrTMnfCygjih2P7bujFMzPmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\CayChuoiCanh.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayCoGuong.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/CayCoGuong#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i562mcgahx",
+      "Integrity": "ppHpPBYcCjE3bXpGnyt6jZkTNXoe+H2UxXWg9FmWZzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\CayCoGuong.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayconhat.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Cayconhat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ldnaoh0xmo",
+      "Integrity": "2dCfjc1JaPx+/cLDXWBYbWCQO4wpASqbKnAvAqzSjv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Cayconhat.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caydaynhen.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Caydaynhen#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pzx8kx22k4",
+      "Integrity": "Fbb0qa2C4xpiiCYBISYuPZjLbH0mgvilrHHaQjhxdeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Caydaynhen.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayduongxi.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Cayduongxi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yfxsn8gmkx",
+      "Integrity": "slD2HOl7SE2mzOrYb33zlfvNpCAej8mc1EzpxA74sPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Cayduongxi.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimngan.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Caykimngan#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09jqdx0rpf",
+      "Integrity": "DAvbF8UpkH/l4gZv6wrTHSwnZvfeEh7nqoyBGPZCJ64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Caykimngan.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimtien.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Caykimtien#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3fvz5h0puk",
+      "Integrity": "MS0vFgdEeOmFF+JYcSxCegoKjDCCziZVyd6Qwygas0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Caykimtien.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caylany.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Caylany#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81br02j6ce",
+      "Integrity": "ZJc/fpbznmrn45S54+lLCYYhbQsXtTNOXzTOFetOU30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Caylany.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysenda.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Caysenda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ft43cb3rro",
+      "Integrity": "3TysZxdamYCesTHlBA7gSzYEmgADeCK4P1Wat52b9/U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Caysenda.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysongdoi.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Caysongdoi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n39o9644eh",
+      "Integrity": "7fqgYcBqSLWWM8v3h/UlzRFqYFyCkZTrRRRIQBhJFyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Caysongdoi.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caythuongxuan.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Caythuongxuan#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "17rroc4g7r",
+      "Integrity": "bcrt6qY5yG1DBZnPBCayV3khzylMJzfsUrFSluTXscg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Caythuongxuan.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayvannienthanh.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "images/admins/products/Cayvannienthanh#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ud8r387ei",
+      "Integrity": "DR+8rAYXsEobwGCCUpVpl/lTzyLPub0y+/BdqHFPOxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\admins\\products\\Cayvannienthanh.jpg"
     },
     {
       "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db1.jpg",
@@ -3692,6 +4070,69 @@
       "OriginalItemSpec": "wwwroot\\Style\\images\\header\\businesspeople-meeting-office-working.jpg"
     },
     {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\caycanh.webp",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/header/caycanh#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "485m28wl38",
+      "Integrity": "9GVYTjt8ow5CtT3qfm6lzWyPx/URZWgrtIVNlhP26B8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\header\\caycanh.webp"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\cay-canh-001.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/header/cay-canh-001#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mdd07ze5b",
+      "Integrity": "LbJLV+AX4EoRCNfVdd1NgFeYryBL7o5gqQQZJWLY2p8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\header\\cay-canh-001.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\hinhcaycanh.png",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/header/hinhcaycanh#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dtrf1p2ttd",
+      "Integrity": "kT8L3YSEy3BlpwJ/OOzXiJiHBB1EPGLV37K3CGxgrRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\header\\hinhcaycanh.png"
+    },
+    {
       "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "SourceId": "K21CNT2_BuiTienAnh_2110900003",
       "SourceType": "Discovered",
@@ -3711,6 +4152,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\vuonnho.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/header/vuonnho#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lwbcjxpxit",
+      "Integrity": "u1FsVUmx+qzF3eGqUsVAwxaYHvc6wp6Ti9Q877RTP/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\header\\vuonnho.jpg"
     },
     {
       "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
@@ -4047,6 +4509,258 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Style\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner1.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/Banner1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mg3tobe7xx",
+      "Integrity": "OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\Banner1.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner2.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/Banner2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ah6d3rimn",
+      "Integrity": "BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\Banner2.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner3.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/Banner3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iq8ykaeg88",
+      "Integrity": "RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\Banner3.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner4.png",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/banner4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sn3r4xg4u9",
+      "Integrity": "SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\banner4.png"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner5.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/Banner5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gdn3yvtrdk",
+      "Integrity": "7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\Banner5.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner6.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/banner6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qeyxk2nmb",
+      "Integrity": "8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\banner6.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\chatgpt.png",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/chatgpt#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p8vammq7gr",
+      "Integrity": "V/WSW9L9mnLgUwtHMZCYyTP1IqkfZfwdBxMyvGxd80A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\chatgpt.png"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/gemini#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6d71p9nazg",
+      "Integrity": "ikhtRzfWi3J7D1l/hEvsMkgV1sesoS8DDQb/7U7s9tM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\gemini.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.png",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/gemini#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "noxn9cfhs3",
+      "Integrity": "R5NDOjb0nNV+BfZyLgOoIp7d5LqgSZi7bgKmOW41VVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\gemini.png"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\logochatgpt.png",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/logochatgpt#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ohr3jkclgc",
+      "Integrity": "7HBuxHSNnp0KMJy8IG2aTB9ZMOVwYQ4kcnzpiqhvjo8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\logochatgpt.png"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/tienanh#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c9alsjh25s",
+      "Integrity": "0IDHzUIDHJWqxMd3arbcS3it0zmQN57mCsQRygX5b98=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\tienanh.jpg"
+    },
+    {
+      "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh2.jpg",
+      "SourceId": "K21CNT2_BuiTienAnh_2110900003",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\",
+      "BasePath": "_content/K21CNT2_BuiTienAnh_2110900003",
+      "RelativePath": "Style/images/TA/tienanh2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4zfq5uxyx",
+      "Integrity": "jQ0r9rk2aPMZ+Q3Y0ohP/UEDQ+9pTHKvY3cHErdpNQM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\images\\TA\\tienanh2.jpg"
     },
     {
       "Identity": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\js\\bootstrap.bundle.min.js",
@@ -10409,6 +11123,88 @@
       ]
     },
     {
+      "Route": "images/admins/banners/39afaa65-bfde-482b-a698-364a0ca443e1.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\39afaa65-bfde-482b-a698-364a0ca443e1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1268224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/39afaa65-bfde-482b-a698-364a0ca443e1.sn3r4xg4u9.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\39afaa65-bfde-482b-a698-364a0ca443e1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1268224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sn3r4xg4u9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/banners/39afaa65-bfde-482b-a698-364a0ca443e1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg="
+        }
+      ]
+    },
+    {
       "Route": "images/admins/banners/6ad046c5-a68e-446b-8c06-54212f7883f1.bye0cruqmk.jfif",
       "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif",
       "Selectors": [],
@@ -10487,6 +11283,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-TXxg0l5etJbnYJuzWbFrEMd+UMhN5l4beVp9O28yjR0="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/6cc766ae-75db-4551-a2c4-72e80219687f.gdn3yvtrdk.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6cc766ae-75db-4551-a2c4-72e80219687f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gdn3yvtrdk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/banners/6cc766ae-75db-4551-a2c4-72e80219687f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/6cc766ae-75db-4551-a2c4-72e80219687f.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6cc766ae-75db-4551-a2c4-72e80219687f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/74c09e37-ce22-4bea-806e-91071b94aae8.1ah6d3rimn.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\74c09e37-ce22-4bea-806e-91071b94aae8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:50:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ah6d3rimn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/banners/74c09e37-ce22-4bea-806e-91071b94aae8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/74c09e37-ce22-4bea-806e-91071b94aae8.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\74c09e37-ce22-4bea-806e-91071b94aae8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:50:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/8052e474-8499-4719-b5e3-5eb1321178ef.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8052e474-8499-4719-b5e3-5eb1321178ef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:50:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/8052e474-8499-4719-b5e3-5eb1321178ef.mg3tobe7xx.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8052e474-8499-4719-b5e3-5eb1321178ef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:50:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mg3tobe7xx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/banners/8052e474-8499-4719-b5e3-5eb1321178ef.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU="
         }
       ]
     },
@@ -10897,6 +11939,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-yb054za3NF3yU/xaHranzeJG2Tj88fwifgODex7W0tc="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/e75f0092-6994-4210-a1c4-9b2e9d059f40.7qeyxk2nmb.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:53:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qeyxk2nmb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/banners/e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:53:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/f3a28ddb-529b-41f1-9948-5a7c443fe273.iq8ykaeg88.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iq8ykaeg88"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/banners/f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/banners/f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE="
         }
       ]
     },
@@ -11389,6 +12595,990 @@
         {
           "Name": "integrity",
           "Value": "sha256-EQpQO/kYeYxMtJMS1pnayr55t2Lrqd4Y6BmtY3igAgI="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/CayChuoiCanh.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayChuoiCanh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qr8K6EpoOWagYCMJ3lOtrTMnfCygjih2P7bujFMzPmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:28:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qr8K6EpoOWagYCMJ3lOtrTMnfCygjih2P7bujFMzPmg="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/CayChuoiCanh.qrfu9zkxtp.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayChuoiCanh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qr8K6EpoOWagYCMJ3lOtrTMnfCygjih2P7bujFMzPmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:28:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrfu9zkxtp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/CayChuoiCanh.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qr8K6EpoOWagYCMJ3lOtrTMnfCygjih2P7bujFMzPmg="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/CayCoGuong.i562mcgahx.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayCoGuong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ppHpPBYcCjE3bXpGnyt6jZkTNXoe+H2UxXWg9FmWZzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:27:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i562mcgahx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/CayCoGuong.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppHpPBYcCjE3bXpGnyt6jZkTNXoe+H2UxXWg9FmWZzw="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/CayCoGuong.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayCoGuong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ppHpPBYcCjE3bXpGnyt6jZkTNXoe+H2UxXWg9FmWZzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:27:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppHpPBYcCjE3bXpGnyt6jZkTNXoe+H2UxXWg9FmWZzw="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Cayconhat.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayconhat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2dCfjc1JaPx+/cLDXWBYbWCQO4wpASqbKnAvAqzSjv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:20:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2dCfjc1JaPx+/cLDXWBYbWCQO4wpASqbKnAvAqzSjv4="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Cayconhat.ldnaoh0xmo.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayconhat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2dCfjc1JaPx+/cLDXWBYbWCQO4wpASqbKnAvAqzSjv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:20:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ldnaoh0xmo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Cayconhat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2dCfjc1JaPx+/cLDXWBYbWCQO4wpASqbKnAvAqzSjv4="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caydaynhen.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caydaynhen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fbb0qa2C4xpiiCYBISYuPZjLbH0mgvilrHHaQjhxdeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:29:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fbb0qa2C4xpiiCYBISYuPZjLbH0mgvilrHHaQjhxdeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caydaynhen.pzx8kx22k4.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caydaynhen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fbb0qa2C4xpiiCYBISYuPZjLbH0mgvilrHHaQjhxdeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:29:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzx8kx22k4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Caydaynhen.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fbb0qa2C4xpiiCYBISYuPZjLbH0mgvilrHHaQjhxdeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Cayduongxi.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayduongxi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slD2HOl7SE2mzOrYb33zlfvNpCAej8mc1EzpxA74sPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:20:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-slD2HOl7SE2mzOrYb33zlfvNpCAej8mc1EzpxA74sPM="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Cayduongxi.yfxsn8gmkx.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayduongxi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slD2HOl7SE2mzOrYb33zlfvNpCAej8mc1EzpxA74sPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:20:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yfxsn8gmkx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Cayduongxi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-slD2HOl7SE2mzOrYb33zlfvNpCAej8mc1EzpxA74sPM="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caykimngan.09jqdx0rpf.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimngan.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DAvbF8UpkH/l4gZv6wrTHSwnZvfeEh7nqoyBGPZCJ64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:32:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09jqdx0rpf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Caykimngan.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DAvbF8UpkH/l4gZv6wrTHSwnZvfeEh7nqoyBGPZCJ64="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caykimngan.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimngan.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DAvbF8UpkH/l4gZv6wrTHSwnZvfeEh7nqoyBGPZCJ64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:32:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DAvbF8UpkH/l4gZv6wrTHSwnZvfeEh7nqoyBGPZCJ64="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caykimtien.3fvz5h0puk.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimtien.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MS0vFgdEeOmFF+JYcSxCegoKjDCCziZVyd6Qwygas0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:12:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3fvz5h0puk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Caykimtien.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MS0vFgdEeOmFF+JYcSxCegoKjDCCziZVyd6Qwygas0I="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caykimtien.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimtien.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MS0vFgdEeOmFF+JYcSxCegoKjDCCziZVyd6Qwygas0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:12:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MS0vFgdEeOmFF+JYcSxCegoKjDCCziZVyd6Qwygas0I="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caylany.81br02j6ce.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caylany.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZJc/fpbznmrn45S54+lLCYYhbQsXtTNOXzTOFetOU30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:13:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81br02j6ce"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Caylany.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJc/fpbznmrn45S54+lLCYYhbQsXtTNOXzTOFetOU30="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caylany.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caylany.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZJc/fpbznmrn45S54+lLCYYhbQsXtTNOXzTOFetOU30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:13:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJc/fpbznmrn45S54+lLCYYhbQsXtTNOXzTOFetOU30="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caysenda.ft43cb3rro.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysenda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3TysZxdamYCesTHlBA7gSzYEmgADeCK4P1Wat52b9/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft43cb3rro"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Caysenda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3TysZxdamYCesTHlBA7gSzYEmgADeCK4P1Wat52b9/U="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caysenda.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysenda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3TysZxdamYCesTHlBA7gSzYEmgADeCK4P1Wat52b9/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3TysZxdamYCesTHlBA7gSzYEmgADeCK4P1Wat52b9/U="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caysongdoi.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysongdoi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7fqgYcBqSLWWM8v3h/UlzRFqYFyCkZTrRRRIQBhJFyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:32:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7fqgYcBqSLWWM8v3h/UlzRFqYFyCkZTrRRRIQBhJFyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caysongdoi.n39o9644eh.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysongdoi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7fqgYcBqSLWWM8v3h/UlzRFqYFyCkZTrRRRIQBhJFyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:32:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n39o9644eh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Caysongdoi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7fqgYcBqSLWWM8v3h/UlzRFqYFyCkZTrRRRIQBhJFyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caythuongxuan.17rroc4g7r.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caythuongxuan.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcrt6qY5yG1DBZnPBCayV3khzylMJzfsUrFSluTXscg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:30:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17rroc4g7r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Caythuongxuan.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcrt6qY5yG1DBZnPBCayV3khzylMJzfsUrFSluTXscg="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Caythuongxuan.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caythuongxuan.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcrt6qY5yG1DBZnPBCayV3khzylMJzfsUrFSluTXscg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:30:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcrt6qY5yG1DBZnPBCayV3khzylMJzfsUrFSluTXscg="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Cayvannienthanh.5ud8r387ei.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayvannienthanh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DR+8rAYXsEobwGCCUpVpl/lTzyLPub0y+/BdqHFPOxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:28:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ud8r387ei"
+        },
+        {
+          "Name": "label",
+          "Value": "images/admins/products/Cayvannienthanh.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DR+8rAYXsEobwGCCUpVpl/lTzyLPub0y+/BdqHFPOxs="
+        }
+      ]
+    },
+    {
+      "Route": "images/admins/products/Cayvannienthanh.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayvannienthanh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DR+8rAYXsEobwGCCUpVpl/lTzyLPub0y+/BdqHFPOxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:28:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DR+8rAYXsEobwGCCUpVpl/lTzyLPub0y+/BdqHFPOxs="
         }
       ]
     },
@@ -18139,7 +20329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 02:41:49 GMT"
+          "Value": "Wed, 15 Jan 2025 09:58:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18176,7 +20366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 02:41:49 GMT"
+          "Value": "Wed, 15 Jan 2025 09:58:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18527,6 +20717,252 @@
       ]
     },
     {
+      "Route": "Style/images/header/caycanh.485m28wl38.webp",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\caycanh.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GVYTjt8ow5CtT3qfm6lzWyPx/URZWgrtIVNlhP26B8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:42:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "485m28wl38"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/header/caycanh.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GVYTjt8ow5CtT3qfm6lzWyPx/URZWgrtIVNlhP26B8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/header/caycanh.webp",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\caycanh.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GVYTjt8ow5CtT3qfm6lzWyPx/URZWgrtIVNlhP26B8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:42:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GVYTjt8ow5CtT3qfm6lzWyPx/URZWgrtIVNlhP26B8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/header/cay-canh-001.5mdd07ze5b.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\cay-canh-001.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbJLV+AX4EoRCNfVdd1NgFeYryBL7o5gqQQZJWLY2p8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:39:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mdd07ze5b"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/header/cay-canh-001.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbJLV+AX4EoRCNfVdd1NgFeYryBL7o5gqQQZJWLY2p8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/header/cay-canh-001.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\cay-canh-001.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbJLV+AX4EoRCNfVdd1NgFeYryBL7o5gqQQZJWLY2p8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:39:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbJLV+AX4EoRCNfVdd1NgFeYryBL7o5gqQQZJWLY2p8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/header/hinhcaycanh.dtrf1p2ttd.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\hinhcaycanh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "966823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kT8L3YSEy3BlpwJ/OOzXiJiHBB1EPGLV37K3CGxgrRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:38:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dtrf1p2ttd"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/header/hinhcaycanh.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kT8L3YSEy3BlpwJ/OOzXiJiHBB1EPGLV37K3CGxgrRc="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/header/hinhcaycanh.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\hinhcaycanh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "966823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kT8L3YSEy3BlpwJ/OOzXiJiHBB1EPGLV37K3CGxgrRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:38:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kT8L3YSEy3BlpwJ/OOzXiJiHBB1EPGLV37K3CGxgrRc="
+        }
+      ]
+    },
+    {
       "Route": "Style/images/header/positive-european-woman-has-break-after-work.fn2v2ltpa8.jpg",
       "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "Selectors": [],
@@ -18605,6 +21041,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/header/vuonnho.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\vuonnho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1FsVUmx+qzF3eGqUsVAwxaYHvc6wp6Ti9Q877RTP/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1FsVUmx+qzF3eGqUsVAwxaYHvc6wp6Ti9Q877RTP/0="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/header/vuonnho.lwbcjxpxit.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\vuonnho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1FsVUmx+qzF3eGqUsVAwxaYHvc6wp6Ti9Q877RTP/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lwbcjxpxit"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/header/vuonnho.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1FsVUmx+qzF3eGqUsVAwxaYHvc6wp6Ti9Q877RTP/0="
         }
       ]
     },
@@ -19917,6 +22435,990 @@
         {
           "Name": "integrity",
           "Value": "sha256-Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner1.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:47:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner1.mg3tobe7xx.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:47:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mg3tobe7xx"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/Banner1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner2.1ah6d3rimn.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:48:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ah6d3rimn"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/Banner2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner2.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:48:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner3.iq8ykaeg88.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iq8ykaeg88"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/Banner3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner3.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/banner4.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1268224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/banner4.sn3r4xg4u9.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1268224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:51:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sn3r4xg4u9"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/banner4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner5.gdn3yvtrdk.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gdn3yvtrdk"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/Banner5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/Banner5.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/banner6.7qeyxk2nmb.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qeyxk2nmb"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/banner6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/banner6.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:52:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/chatgpt.p8vammq7gr.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\chatgpt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V/WSW9L9mnLgUwtHMZCYyTP1IqkfZfwdBxMyvGxd80A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8vammq7gr"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/chatgpt.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V/WSW9L9mnLgUwtHMZCYyTP1IqkfZfwdBxMyvGxd80A="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/chatgpt.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\chatgpt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V/WSW9L9mnLgUwtHMZCYyTP1IqkfZfwdBxMyvGxd80A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V/WSW9L9mnLgUwtHMZCYyTP1IqkfZfwdBxMyvGxd80A="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/gemini.6d71p9nazg.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikhtRzfWi3J7D1l/hEvsMkgV1sesoS8DDQb/7U7s9tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:53:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6d71p9nazg"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/gemini.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikhtRzfWi3J7D1l/hEvsMkgV1sesoS8DDQb/7U7s9tM="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/gemini.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ikhtRzfWi3J7D1l/hEvsMkgV1sesoS8DDQb/7U7s9tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:53:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ikhtRzfWi3J7D1l/hEvsMkgV1sesoS8DDQb/7U7s9tM="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/gemini.noxn9cfhs3.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R5NDOjb0nNV+BfZyLgOoIp7d5LqgSZi7bgKmOW41VVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "noxn9cfhs3"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/gemini.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R5NDOjb0nNV+BfZyLgOoIp7d5LqgSZi7bgKmOW41VVI="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/gemini.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R5NDOjb0nNV+BfZyLgOoIp7d5LqgSZi7bgKmOW41VVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R5NDOjb0nNV+BfZyLgOoIp7d5LqgSZi7bgKmOW41VVI="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/logochatgpt.ohr3jkclgc.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\logochatgpt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7HBuxHSNnp0KMJy8IG2aTB9ZMOVwYQ4kcnzpiqhvjo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ohr3jkclgc"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/logochatgpt.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7HBuxHSNnp0KMJy8IG2aTB9ZMOVwYQ4kcnzpiqhvjo8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/logochatgpt.png",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\logochatgpt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7HBuxHSNnp0KMJy8IG2aTB9ZMOVwYQ4kcnzpiqhvjo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7HBuxHSNnp0KMJy8IG2aTB9ZMOVwYQ4kcnzpiqhvjo8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/tienanh.c9alsjh25s.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IDHzUIDHJWqxMd3arbcS3it0zmQN57mCsQRygX5b98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c9alsjh25s"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/tienanh.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IDHzUIDHJWqxMd3arbcS3it0zmQN57mCsQRygX5b98="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/tienanh.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IDHzUIDHJWqxMd3arbcS3it0zmQN57mCsQRygX5b98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:48:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IDHzUIDHJWqxMd3arbcS3it0zmQN57mCsQRygX5b98="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/tienanh2.d4zfq5uxyx.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jQ0r9rk2aPMZ+Q3Y0ohP/UEDQ+9pTHKvY3cHErdpNQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:49:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4zfq5uxyx"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/images/TA/tienanh2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jQ0r9rk2aPMZ+Q3Y0ohP/UEDQ+9pTHKvY3cHErdpNQM="
+        }
+      ]
+    },
+    {
+      "Route": "Style/images/TA/tienanh2.jpg",
+      "AssetFile": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jQ0r9rk2aPMZ+Q3Y0ohP/UEDQ+9pTHKvY3cHErdpNQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 08:49:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jQ0r9rk2aPMZ+Q3Y0ohP/UEDQ+9pTHKvY3cHErdpNQM="
         }
       ]
     },

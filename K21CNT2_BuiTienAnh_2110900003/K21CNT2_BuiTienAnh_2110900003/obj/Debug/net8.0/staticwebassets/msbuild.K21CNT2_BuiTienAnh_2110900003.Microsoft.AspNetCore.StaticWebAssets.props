@@ -1368,6 +1368,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\39afaa65-bfde-482b-a698-364a0ca443e1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/banners/39afaa65-bfde-482b-a698-364a0ca443e1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>sn3r4xg4u9</Fingerprint>
+      <Integrity>SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\39afaa65-bfde-482b-a698-364a0ca443e1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif'))">
       <SourceType>Package</SourceType>
       <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
@@ -1385,6 +1403,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\6cc766ae-75db-4551-a2c4-72e80219687f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/banners/6cc766ae-75db-4551-a2c4-72e80219687f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gdn3yvtrdk</Fingerprint>
+      <Integrity>7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\6cc766ae-75db-4551-a2c4-72e80219687f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\74c09e37-ce22-4bea-806e-91071b94aae8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/banners/74c09e37-ce22-4bea-806e-91071b94aae8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1ah6d3rimn</Fingerprint>
+      <Integrity>BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\74c09e37-ce22-4bea-806e-91071b94aae8.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\8052e474-8499-4719-b5e3-5eb1321178ef.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/banners/8052e474-8499-4719-b5e3-5eb1321178ef.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mg3tobe7xx</Fingerprint>
+      <Integrity>OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\8052e474-8499-4719-b5e3-5eb1321178ef.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\8d27bdd9-efe8-4c03-97a6-60f4dbb81904.jfif'))">
       <SourceType>Package</SourceType>
@@ -1475,6 +1547,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\db7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/banners/e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7qeyxk2nmb</Fingerprint>
+      <Integrity>8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/banners/f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iq8ykaeg88</Fingerprint>
+      <Integrity>RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\banners\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\customers\banner1.jfif'))">
       <SourceType>Package</SourceType>
@@ -1583,6 +1691,222 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\customers\op5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\CayChuoiCanh.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/CayChuoiCanh.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qrfu9zkxtp</Fingerprint>
+      <Integrity>qr8K6EpoOWagYCMJ3lOtrTMnfCygjih2P7bujFMzPmg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\CayChuoiCanh.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\CayCoGuong.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/CayCoGuong.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i562mcgahx</Fingerprint>
+      <Integrity>ppHpPBYcCjE3bXpGnyt6jZkTNXoe+H2UxXWg9FmWZzw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\CayCoGuong.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Cayconhat.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Cayconhat.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ldnaoh0xmo</Fingerprint>
+      <Integrity>2dCfjc1JaPx+/cLDXWBYbWCQO4wpASqbKnAvAqzSjv4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Cayconhat.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caydaynhen.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Caydaynhen.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pzx8kx22k4</Fingerprint>
+      <Integrity>Fbb0qa2C4xpiiCYBISYuPZjLbH0mgvilrHHaQjhxdeU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caydaynhen.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Cayduongxi.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Cayduongxi.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yfxsn8gmkx</Fingerprint>
+      <Integrity>slD2HOl7SE2mzOrYb33zlfvNpCAej8mc1EzpxA74sPM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Cayduongxi.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caykimngan.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Caykimngan.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>09jqdx0rpf</Fingerprint>
+      <Integrity>DAvbF8UpkH/l4gZv6wrTHSwnZvfeEh7nqoyBGPZCJ64=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caykimngan.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caykimtien.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Caykimtien.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3fvz5h0puk</Fingerprint>
+      <Integrity>MS0vFgdEeOmFF+JYcSxCegoKjDCCziZVyd6Qwygas0I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caykimtien.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caylany.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Caylany.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>81br02j6ce</Fingerprint>
+      <Integrity>ZJc/fpbznmrn45S54+lLCYYhbQsXtTNOXzTOFetOU30=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caylany.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caysenda.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Caysenda.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ft43cb3rro</Fingerprint>
+      <Integrity>3TysZxdamYCesTHlBA7gSzYEmgADeCK4P1Wat52b9/U=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caysenda.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caysongdoi.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Caysongdoi.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>n39o9644eh</Fingerprint>
+      <Integrity>7fqgYcBqSLWWM8v3h/UlzRFqYFyCkZTrRRRIQBhJFyg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caysongdoi.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caythuongxuan.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Caythuongxuan.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>17rroc4g7r</Fingerprint>
+      <Integrity>bcrt6qY5yG1DBZnPBCayV3khzylMJzfsUrFSluTXscg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Caythuongxuan.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Cayvannienthanh.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>images/admins/products/Cayvannienthanh.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5ud8r387ei</Fingerprint>
+      <Integrity>DR+8rAYXsEobwGCCUpVpl/lTzyLPub0y+/BdqHFPOxs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\Cayvannienthanh.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\admins\products\db1.jpg'))">
       <SourceType>Package</SourceType>
@@ -3132,6 +3456,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\businesspeople-meeting-office-working.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\cay-canh-001.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/header/cay-canh-001.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5mdd07ze5b</Fingerprint>
+      <Integrity>LbJLV+AX4EoRCNfVdd1NgFeYryBL7o5gqQQZJWLY2p8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\cay-canh-001.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\caycanh.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/header/caycanh.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>485m28wl38</Fingerprint>
+      <Integrity>9GVYTjt8ow5CtT3qfm6lzWyPx/URZWgrtIVNlhP26B8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\caycanh.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\hinhcaycanh.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/header/hinhcaycanh.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dtrf1p2ttd</Fingerprint>
+      <Integrity>kT8L3YSEy3BlpwJ/OOzXiJiHBB1EPGLV37K3CGxgrRc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\hinhcaycanh.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\positive-european-woman-has-break-after-work.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
@@ -3149,6 +3527,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\positive-european-woman-has-break-after-work.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\vuonnho.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/header/vuonnho.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lwbcjxpxit</Fingerprint>
+      <Integrity>u1FsVUmx+qzF3eGqUsVAwxaYHvc6wp6Ti9Q877RTP/0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\header\vuonnho.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\people\beautiful-woman-face-portrait-brown-background.jpeg'))">
       <SourceType>Package</SourceType>
@@ -3437,6 +3833,222 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\slideshow\two-business-partners-working-together-office-computer.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/Banner1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mg3tobe7xx</Fingerprint>
+      <Integrity>OoXDs5+Ya/2BUWvWLla9lramlAPqxnQaDDLMJnE79xU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/Banner2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1ah6d3rimn</Fingerprint>
+      <Integrity>BxrlTo3ciVCuQgNbiQDIKkw8qbUV18ve8MY4Vfvuo/E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/Banner3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iq8ykaeg88</Fingerprint>
+      <Integrity>RsOt3ypjom3pQF6vT1XOrYT5xtqAWbUCqeEocqMBtEE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\banner4.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/banner4.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>sn3r4xg4u9</Fingerprint>
+      <Integrity>SPOkCMj0jNNp405mJDIFuiyu3+QZShBBrUhGmH6Ytdg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\banner4.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/Banner5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gdn3yvtrdk</Fingerprint>
+      <Integrity>7JgZQbRb466bfgRngn/YOsKj7nfYRgpoaUhSCD18w/4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\Banner5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\banner6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/banner6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7qeyxk2nmb</Fingerprint>
+      <Integrity>8Q/t040O6AH2RQdTO6dOkzaZr9yE/nEU+H9ALnkNQ64=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\banner6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\chatgpt.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/chatgpt.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>p8vammq7gr</Fingerprint>
+      <Integrity>V/WSW9L9mnLgUwtHMZCYyTP1IqkfZfwdBxMyvGxd80A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\chatgpt.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\gemini.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/gemini.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6d71p9nazg</Fingerprint>
+      <Integrity>ikhtRzfWi3J7D1l/hEvsMkgV1sesoS8DDQb/7U7s9tM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\gemini.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\gemini.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/gemini.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>noxn9cfhs3</Fingerprint>
+      <Integrity>R5NDOjb0nNV+BfZyLgOoIp7d5LqgSZi7bgKmOW41VVI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\gemini.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\logochatgpt.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/logochatgpt.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ohr3jkclgc</Fingerprint>
+      <Integrity>7HBuxHSNnp0KMJy8IG2aTB9ZMOVwYQ4kcnzpiqhvjo8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\logochatgpt.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\tienanh.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/tienanh.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c9alsjh25s</Fingerprint>
+      <Integrity>0IDHzUIDHJWqxMd3arbcS3it0zmQN57mCsQRygX5b98=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\tienanh.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\tienanh2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>K21CNT2_BuiTienAnh_2110900003</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/K21CNT2_BuiTienAnh_2110900003</BasePath>
+      <RelativePath>Style/images/TA/tienanh2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>d4zfq5uxyx</Fingerprint>
+      <Integrity>jQ0r9rk2aPMZ+Q3Y0ohP/UEDQ+9pTHKvY3cHErdpNQM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\images\TA\tienanh2.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Style\js\bootstrap.bundle.min.js'))">
       <SourceType>Package</SourceType>

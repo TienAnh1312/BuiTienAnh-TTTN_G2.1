@@ -55,24 +55,24 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link active" asp-area="" asp-controller="Dashboard" asp-action="Index">Home</a>
+                    <a class="nav-link active" asp-area="Customers" asp-controller="Dashboard" asp-action="Index" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Trang chủ</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">Story</a>
+                    <a class="nav-link" asp-controller="About" asp-action="Index" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Về chúng tôi</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" asp-controller="Products" asp-action="Index" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Products</a>
+                    <a class="nav-link" asp-controller="Products" asp-action="Index" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Sản phẩm</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="faq.html">FAQs</a>
+                    <a class="nav-link" asp-controller="FAQs" asp-action="Index" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Giới thiệu</a>
                 </li>
 
-                <li class="nav-item">
+                @* <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact</a>
-                </li>
+                </li> *@
 
                 <li class="nav-item">
                     <a asp-area="Customers" asp-controller="Carts" asp-action="OrderDetails" class="nav-link" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Đơn hàng của tôi</a>

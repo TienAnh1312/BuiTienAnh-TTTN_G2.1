@@ -21,7 +21,7 @@
 
                             <p class="lead text-white mt-lg-3 mb-lg-5">@banner.SubTitle</p>
 
-                            <a href="about.html" class="btn custom-btn">Learn more about us</a>
+                            @* <a href="about.html" class="btn custom-btn">Learn more about us</a> *@
                         </div>
                     </div>
                 </div>
@@ -35,21 +35,21 @@
         <div class="row">
 
             <div class="col-12 text-center">
-                <h2 class="mb-5">Get started with <span>Little</span> Fashion</h2>
+                <h2 class="mb-5">Hãy bắt đầu với <span>TA</span> Fashion</h2>
             </div>
 
             <div class="col-lg-2 col-12 mt-auto mb-auto">
                 <ul class="nav nav-pills mb-5 mx-auto justify-content-center align-items-center" id="pills-tab" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Introduction</button>
+                        <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Về chúng tôi</button>
                     </li>
 
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-youtube-tab" data-bs-toggle="pill" data-bs-target="#pills-youtube" type="button" role="tab" aria-controls="pills-youtube" aria-selected="true">How we work?</button>
+                        <button class="nav-link" id="pills-youtube-tab" data-bs-toggle="pill" data-bs-target="#pills-youtube" type="button" role="tab" aria-controls="pills-youtube" aria-selected="true">Cách làm việc?</button>
                     </li>
 
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-skill-tab" data-bs-toggle="pill" data-bs-target="#pills-skill" type="button" role="tab" aria-controls="pills-skill" aria-selected="false">Capabilites</button>
+                        <button class="nav-link" id="pills-skill-tab" data-bs-toggle="pill" data-bs-target="#pills-skill" type="button" role="tab" aria-controls="pills-skill" aria-selected="false">Thống kê</button>
                     </li>
                 </ul>
             </div>
@@ -60,20 +60,20 @@
 
                         <div class="row">
                             <div class="col-lg-7 col-12">
-                                <img src="~/Style/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg" class="img-fluid" alt="">
+                                <img src="~/Style/images/header/vuonnho.jpg" class="img-fluid" alt="">
                             </div>
 
                             <div class="col-lg-5 col-12">
                                 <div class="d-flex flex-column h-100 ms-lg-4 mt-lg-0 mt-5">
-                                    <h4 class="mb-3">Good <span>Design</span> <br>Ideas for <span>your</span> fashion</h4>
+                                    <h4 class="mb-3">Mang thiên nhiên vào <br> không gian sống của bạn!</h4>
 
-                                    <p>Little Fashion templates comes with <a href="sign-in.html">sign in</a> / <a href="sign-up.html">sign up</a> pages, product listing / product detail, about, FAQs, and contact page.</p>
+                                    <p>Chúng tôi cung cấp một loạt các loại cây cảnh đẹp và chất lượng, giúp làm xanh không gian sống và tạo cảm giác thư giãn. Từ những cây để bàn nhỏ nhắn cho đến những cây trang trí lớn.</p>
 
-                                    <p>Since this HTML template is based on Boostrap 5 CSS library, you can feel free to add more components as you need.</p>
+                                    <p>Khám phá ngay bộ sưu tập cây cảnh tuyệt vời của chúng tôi!</p>
 
                                     <div class="mt-2 mt-lg-auto">
-                                        <a href="about.html" class="custom-link mb-2">
-                                            Learn more about us
+                                        <a asp-controller="About" asp-action="Index" class="custom-link mb-2">
+                                            Xem thêm về chúng tôi
                                             <i class="bi-arrow-right ms-2"></i>
                                         </a>
                                     </div>
@@ -167,18 +167,18 @@
         <div class="row align-items-center">
 
             <div class="col-lg-6 col-12">
-                <img src="~/Style/images/retail-shop-owner-mask-social-distancing-shopping.jpg" class="img-fluid" alt="">
+                <img src="~/Style/images/header/vuonnho.jpg" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-6 col-12">
                 <div class="px-5 py-5 py-lg-0">
 
-                    <h2 class="mb-4"><span>Retail</span> shop owners</h2>
+                    <h2 class="mb-4"><span>Cửa hàng</span> Của tôi </h2>
 
-                    <p class="lead mb-4">Credits go to Unsplash and FreePik websites for images used in this Little Fashion by Tooplate.</p>
+                    <p class="lead mb-4">Luôn sẵn sàng cho bạn điều bạn muốn hãy chọn cho bạn cây cảnh hợp với sở thích của bạn và gia đình.</p>
 
-                    <a href="products.html" class="custom-link">
-                        Explore Products
+                    <a asp-controller="Product" asp-action="Index" class="custom-link">
+                        Xem thêm sản phẩm
                         <i class="bi-arrow-right ms-2"></i>
                     </a>
                 </div>
@@ -196,7 +196,7 @@
                 <h2 class="mb-5">Sản phẩm mới cập nhật</h2>
             </div>
 
-            @foreach (var item in ViewBag.ProductsCid2 as List<K21CNT2_BuiTienAnh_2110900003.Models.Product>)
+            @foreach (var item in ViewBag.ProductsCid1 as List<K21CNT2_BuiTienAnh_2110900003.Models.Product>)
             {
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
                     <div class="product-thumb">
@@ -215,7 +215,7 @@
                                 </h5>
                                 <p class="product-p">@item.Content</p>
                             </div>
-                            <small class="product-price text-muted ms-auto">@item.PriceNew</small>
+                            <small class="product-price text-muted ms-auto">@item.PriceNew <sup>VNĐ</sup></small>
                         </div>
                     </div>
                 </div>

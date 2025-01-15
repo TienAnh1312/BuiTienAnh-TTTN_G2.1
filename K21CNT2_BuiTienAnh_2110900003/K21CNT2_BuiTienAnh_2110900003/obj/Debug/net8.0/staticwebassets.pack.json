@@ -29,6 +29,54 @@
       "PackagePath": "staticwebassets\\Style\\fonts\\bootstrap-icons.woff2"
     },
     {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner1.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\Banner1.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner2.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\Banner2.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner3.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\Banner3.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\Banner5.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\Banner5.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner4.png",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\banner4.png"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\banner6.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\banner6.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\chatgpt.png",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\chatgpt.png"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\gemini.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\gemini.png",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\gemini.png"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\logochatgpt.png",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\logochatgpt.png"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\tienanh.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\TA\\tienanh2.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\TA\\tienanh2.jpg"
+    },
+    {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
       "PackagePath": "staticwebassets\\Style\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
     },
@@ -37,8 +85,24 @@
       "PackagePath": "staticwebassets\\Style\\images\\header\\businesspeople-meeting-office-working.jpg"
     },
     {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\cay-canh-001.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\header\\cay-canh-001.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\caycanh.webp",
+      "PackagePath": "staticwebassets\\Style\\images\\header\\caycanh.webp"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\hinhcaycanh.png",
+      "PackagePath": "staticwebassets\\Style\\images\\header\\hinhcaycanh.png"
+    },
+    {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "PackagePath": "staticwebassets\\Style\\images\\header\\positive-european-woman-has-break-after-work.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\header\\vuonnho.jpg",
+      "PackagePath": "staticwebassets\\Style\\images\\header\\vuonnho.jpg"
     },
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\Style\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
@@ -433,8 +497,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\39afaa65-bfde-482b-a698-364a0ca443e1.png",
+      "PackagePath": "staticwebassets\\images\\admins\\banners\\39afaa65-bfde-482b-a698-364a0ca443e1.png"
+    },
+    {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\6ad046c5-a68e-446b-8c06-54212f7883f1.jfif"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\6cc766ae-75db-4551-a2c4-72e80219687f.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\banners\\6cc766ae-75db-4551-a2c4-72e80219687f.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\74c09e37-ce22-4bea-806e-91071b94aae8.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\banners\\74c09e37-ce22-4bea-806e-91071b94aae8.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8052e474-8499-4719-b5e3-5eb1321178ef.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\banners\\8052e474-8499-4719-b5e3-5eb1321178ef.jpg"
     },
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\8d27bdd9-efe8-4c03-97a6-60f4dbb81904.jfif",
@@ -455,6 +535,14 @@
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\db7.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\banners\\db7.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\banners\\e75f0092-6994-4210-a1c4-9b2e9d059f40.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\banners\\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\banners\\f3a28ddb-529b-41f1-9948-5a7c443fe273.jpg"
     },
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\banner1.jfif",
@@ -479,6 +567,54 @@
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\customers\\op5.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\customers\\op5.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayChuoiCanh.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\CayChuoiCanh.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\CayCoGuong.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\CayCoGuong.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayconhat.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Cayconhat.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caydaynhen.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Caydaynhen.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayduongxi.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Cayduongxi.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimngan.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Caykimngan.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caykimtien.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Caykimtien.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caylany.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Caylany.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysenda.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Caysenda.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caysongdoi.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Caysongdoi.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Caythuongxuan.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Caythuongxuan.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Cayvannienthanh.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Cayvannienthanh.jpg"
     },
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Deathsize Hell EW.jpg",
