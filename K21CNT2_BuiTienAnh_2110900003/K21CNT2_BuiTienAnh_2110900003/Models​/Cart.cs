@@ -16,4 +16,6 @@ public partial class Cart
     public double Price { get; set; }
 
     public double Total { get; set; }
+
+    public int? StockQuantity { get; set; }
 }

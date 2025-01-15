@@ -1,4 +1,5 @@
-﻿using K21CNT2_BuiTienAnh_2110900003.Models;
+﻿using K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Models;
+using K21CNT2_BuiTienAnh_2110900003.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
@@ -33,26 +34,26 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
             return View();
         }
 
-        // GET: Products/Details/5 (Hiển thị chi tiết sản phẩm)
+        // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            // Kiểm tra nếu id bị null
             if (id == null)
             {
                 return NotFound();
             }
 
-            // Lấy sản phẩm từ cơ sở dữ liệu theo id
-            var product = await _context.Products.FirstOrDefaultAsync(m => m.Id == id);
+            var product = await _context.Products
+                .Include(p => p.ProductReviews)
+                    .ThenInclude(r => r.Customer) // Để hiển thị tên khách hàng
+                .FirstOrDefaultAsync(m => m.Id == id);
 
-            // Kiểm tra nếu không tìm thấy sản phẩm
             if (product == null)
             {
                 return NotFound();
             }
 
-            // Truyền sản phẩm vào view
             return View(product);
         }
+
     }
 }

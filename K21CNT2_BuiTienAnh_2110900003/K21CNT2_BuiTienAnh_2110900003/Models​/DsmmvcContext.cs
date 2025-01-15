@@ -57,6 +57,8 @@ public partial class DsmmvcContext : DbContext
 
     public virtual DbSet<ProductMaterial> ProductMaterials { get; set; }
 
+    public virtual DbSet<ProductReview> ProductReviews { get; set; }
+
     public virtual DbSet<Slide> Slides { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -804,6 +806,7 @@ public partial class DsmmvcContext : DbContext
             entity.Property(e => e.PriceOld)
                 .HasColumnType("decimal(18, 0)")
                 .HasColumnName("PRICE_OLD");
+            entity.Property(e => e.Quantity).HasColumnName("QUANTITY");
             entity.Property(e => e.Size)
                 .HasMaxLength(500)
                 .HasColumnName("SIZE");
@@ -860,6 +863,25 @@ public partial class DsmmvcContext : DbContext
             entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.Mid).HasColumnName("MID");
             entity.Property(e => e.Pid).HasColumnName("PID");
+        });
+
+        modelBuilder.Entity<ProductReview>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__ProductR__3214EC074FFEDD88");
+
+            entity.Property(e => e.CreatedAt)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime");
+
+            entity.HasOne(d => d.Customer).WithMany(p => p.ProductReviews)
+                .HasForeignKey(d => d.CustomerId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__ProductRe__Custo__22751F6C");
+
+            entity.HasOne(d => d.Product).WithMany(p => p.ProductReviews)
+                .HasForeignKey(d => d.ProductId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__ProductRe__Produ__2180FB33");
         });
 
         modelBuilder.Entity<Slide>(entity =>

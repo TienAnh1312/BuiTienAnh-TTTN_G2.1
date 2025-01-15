@@ -55,5 +55,9 @@ public partial class Product
 
     public bool? Isdelete { get; set; }
 
+    public long? Quantity { get; set; }
+
     public virtual ICollection<Orderdetail> Orderdetails { get; set; } = new List<Orderdetail>();
+
+    public virtual ICollection<ProductReview> ProductReviews { get; set; } = new List<ProductReview>();
 }

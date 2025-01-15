@@ -481,12 +481,20 @@
       "PackagePath": "staticwebassets\\images\\admins\\customers\\op5.jpg"
     },
     {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\Deathsize Hell EW.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\Deathsize Hell EW.jpg"
+    },
+    {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db1.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\db1.jpg"
     },
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db2.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\db2.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db3.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\db3.jpg"
     },
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\db4.jpg",
@@ -509,6 +517,14 @@
       "PackagePath": "staticwebassets\\images\\admins\\products\\db8.webp"
     },
     {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\n2.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\n2.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\n3.png",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\n3.png"
+    },
+    {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op1.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\op1.jpg"
     },
@@ -523,6 +539,18 @@
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op5.jpg",
       "PackagePath": "staticwebassets\\images\\admins\\products\\op5.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\op6.jpg",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\op6.jpg"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\ot1.jfif",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\ot1.jfif"
+    },
+    {
+      "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\ot2.jfif",
+      "PackagePath": "staticwebassets\\images\\admins\\products\\ot2.jfif"
     },
     {
       "Id": "E:\\BuiTienAnh\\Học tập\\BuiTienAnh-TH\\BuiTienAnh-TTTN_G2.1\\K21CNT2_BuiTienAnh_2110900003\\K21CNT2_BuiTienAnh_2110900003\\wwwroot\\images\\admins\\products\\vv.jfif",

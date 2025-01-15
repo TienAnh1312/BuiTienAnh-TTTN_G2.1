@@ -63,7 +63,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" asp-controller="Products" asp-action="Index">Products</a>
+                    <a class="nav-link" asp-controller="Products" asp-action="Index" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Products</a>
                 </li>
 
                 <li class="nav-item">
@@ -75,7 +75,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a asp-area="Customers" asp-controller="Carts" asp-action="OrderDetails" class="nav-link">Đơn hàng của tôi</a>
+                    <a asp-area="Customers" asp-controller="Carts" asp-action="OrderDetails" class="nav-link" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Đơn hàng của tôi</a>
                 </li>
             </ul>
 

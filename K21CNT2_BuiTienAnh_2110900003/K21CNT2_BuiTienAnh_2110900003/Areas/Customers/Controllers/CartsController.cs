@@ -6,16 +6,19 @@ using Newtonsoft.Json;
 using System.Linq;
 using System.Threading.Tasks;
 using System;
+using K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Models;
 
 namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
 {
     public class CartsController : BaseController
     {
         private readonly DsmmvcContext _context;
+        
 
         public CartsController(DsmmvcContext context)
         {
             _context = context;
+            
         }
 
         // Hiển thị giỏ hàng
@@ -153,7 +156,7 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Customers.Controllers
         }
 
         // Thanh toán đơn hàng
-        // Thanh toán đơn hàng
+
         public async Task<IActionResult> OrderPay(IFormCollection form)
         {
             try

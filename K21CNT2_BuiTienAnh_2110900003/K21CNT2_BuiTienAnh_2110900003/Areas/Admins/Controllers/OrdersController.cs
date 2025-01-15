@@ -18,17 +18,37 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         }
 
         // GET: Admins/Orders
-        // Danh sách các đơn hàng chờ phê duyệt hoặc đã phê duyệt
-        public IActionResult Index(int? status)
+        public IActionResult Index(int? status, string searchString)
         {
-            // Nếu có tham số status, lọc đơn hàng theo trạng thái, nếu không thì mặc định là trạng thái "Chờ phê duyệt" (status = 0)
-            var orders = status.HasValue
-                ? _context.Orders.Where(o => o.Status == status.Value).ToList()
-                : _context.Orders.Where(o => o.Status == 0).ToList();  // Mặc định chỉ lấy đơn hàng chờ phê duyệt
+            // Khởi tạo danh sách đơn hàng
+            var orders = _context.Orders.AsQueryable();
 
-            ViewData["Title"] = status.HasValue && status.Value == 1 ? "Đơn hàng đã phê duyệt" : "Đơn hàng chờ phê duyệt";
-            return View(orders);
+            // Nếu có từ khóa tìm kiếm, lọc theo Idorders hoặc NameReciver
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                orders = orders.Where(o => o.Idorders.Contains(searchString) || o.NameReciver.Contains(searchString));
+            }
+
+            // Nếu có tham số status, lọc đơn hàng theo trạng thái
+            if (status.HasValue)
+            {
+                orders = orders.Where(o => o.Status == status.Value);
+            }
+            else
+            {
+                // Nếu không có tham số status, lấy tất cả đơn hàng (cả chờ phê duyệt và đã phê duyệt)
+                orders = orders.Where(o => o.Status == 0 || o.Status == 1); // Lọc cả đơn hàng chờ và đã phê duyệt
+            }
+
+            // Truyền từ khóa tìm kiếm vào ViewData để hiển thị lại trên form
+            ViewData["SearchString"] = searchString;
+
+            // Trả về danh sách đơn hàng đã lọc
+            return View(orders.ToList());
         }
+
+
+
 
         // Chi tiết đơn hàng
         public IActionResult Details(long id)

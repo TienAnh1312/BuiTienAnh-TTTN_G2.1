@@ -88,15 +88,22 @@ wwwroot\images\admins\customers\op4.jpg
 wwwroot\images\admins\customers\op5.jpg
 wwwroot\images\admins\products\db1.jpg
 wwwroot\images\admins\products\db2.jpg
+wwwroot\images\admins\products\db3.jpg
 wwwroot\images\admins\products\db4.jpg
 wwwroot\images\admins\products\db5.jpg
 wwwroot\images\admins\products\db6.jpg
 wwwroot\images\admins\products\db7.jpg
 wwwroot\images\admins\products\db8.webp
+wwwroot\images\admins\products\Deathsize Hell EW.jpg
+wwwroot\images\admins\products\n2.jpg
+wwwroot\images\admins\products\n3.png
 wwwroot\images\admins\products\op1.jpg
 wwwroot\images\admins\products\op3.jpeg
 wwwroot\images\admins\products\op4.jpg
 wwwroot\images\admins\products\op5.jpg
+wwwroot\images\admins\products\op6.jpg
+wwwroot\images\admins\products\ot1.jfif
+wwwroot\images\admins\products\ot2.jfif
 wwwroot\images\admins\products\vv.jfif
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

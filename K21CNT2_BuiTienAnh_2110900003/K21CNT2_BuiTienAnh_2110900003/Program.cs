@@ -1,4 +1,4 @@
-using K21CNT2_BuiTienAnh_2110900003.Models;
+﻿using K21CNT2_BuiTienAnh_2110900003.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace K21CNT2_BuiTienAnh_2110900003
@@ -14,7 +14,7 @@ namespace K21CNT2_BuiTienAnh_2110900003
 
             builder.Services.AddHttpContextAccessor();
 
-            // C?u h�nh s? d?ng session
+            // C?u hình s? d?ng session
             builder.Services.AddSession(options =>
             {
                 options.IdleTimeout = TimeSpan.FromMinutes(30);

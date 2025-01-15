@@ -1,6 +1,10 @@
 ﻿@model IEnumerable<K21CNT2_BuiTienAnh_2110900003.Models.Orderdetail>
 
 <h2>Danh sách chi tiết đơn hàng</h2>
+<p>
+    <a asp-action="Index" asp-route-status="1">Đơn hàng chưa giao</a> |
+    <a asp-action="Index" asp-route-status="2">Đơn hàng đã giao</a>
+</p>
 
 <table class="table">
     <thead>
@@ -38,14 +42,14 @@
                     <a href="@Url.Action("Delete", "Orderdetails", new { id = orderDetail.Id })">Xóa</a> |
 
                     <!-- Kiểm tra trạng thái đơn hàng và hiển thị nút Đã giao nếu đang giao -->
-                    @if (orderDetail.IdordNavigation.Status == 1) 
+                    @if (orderDetail.IdordNavigation.Status == 1)
                     {
                         <!-- Nút bấm để đánh dấu đơn hàng đã giao -->
                         <a href="@Url.Action("MarkAsDelivered", "Orderdetails", new { id = orderDetail.Id })" class="btn btn-success">
                             Đã giao
                         </a>
                     }
-                    else if (orderDetail.IdordNavigation.Status == 2)  
+                    else if (orderDetail.IdordNavigation.Status == 2)
                     {
                         <span>Đã giao</span>
                     }

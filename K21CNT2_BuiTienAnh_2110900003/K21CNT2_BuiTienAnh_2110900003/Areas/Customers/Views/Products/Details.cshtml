@@ -1,4 +1,7 @@
 ﻿@model K21CNT2_BuiTienAnh_2110900003.Models.Product
+@{
+    var customerEmail = Context.Session.GetString("CustomersLogin");
+}
 
 <!doctype html>
 <html lang="en">
@@ -22,10 +25,52 @@
     <link href="~/Style/css/bootstrap-icons.css" rel="stylesheet">
 
     <link rel="stylesheet" href="~/Style/css/slick.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
     <link href="~/Style/css/tooplate-little-fashion.css" rel="stylesheet">
 </head>
+<style>
 
+    .star-rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    }
+
+    .star-rating input[type="radio"] {
+        display: none;
+    }
+
+    .star-rating label {
+        font-size: 2rem;
+        color: #ddd;
+        cursor: pointer;
+        transition: color 0.3s ease-in-out;
+    }
+
+    .star-rating input[type="radio"]:checked ~ label {
+        color: #f5b301; /* Màu vàng cho sao đã chọn */
+    }
+
+    .star-rating label:hover,
+    .star-rating label:hover ~ label {
+        color: #f5b301; /* Màu vàng khi hover */
+    }
+
+    .rating {
+        display: inline-block;
+        color: #f5b301;
+        font-size: 1.5rem;
+    }
+
+    .review-item {
+        margin-bottom: 1.5rem;
+        padding: 1rem;
+        border-bottom: 1px solid #ddd;
+    }
+
+
+</style>
 <body>
 
     <section class="preloader">
@@ -54,46 +99,103 @@
             <div class="container">
                 <div class="row">
 
-                        <div class="col-lg-6 col-12">
-                            <div class="product-thumb">
-                                <img src="~/@Model.Image" class="img-fluid product-image" alt="">
+                    <div class="col-lg-6 col-12">
+                        <div class="product-thumb">
+                            <img src="~/@Model.Image" class="img-fluid product-image" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-12">
+                        <div class="product-info d-flex">
+                            <div>
+                                <h2 class="product-title mb-0">@Model.Title</h2>
+
+                                <p class="product-p">@Model.Content</p>
+                                <p class="product-p">Số lượng: @Model.Quantity</p>
                             </div>
+
+                            <small class="product-price text-muted ms-auto mt-auto mb-5">@Model.PriceNew</small>
                         </div>
 
-                        <div class="col-lg-6 col-12">
-                            <div class="product-info d-flex">
-                                <div>
-                                    <h2 class="product-title mb-0">@Model.Title</h2>
+                        <div class="product-description">
 
-                                    <p class="product-p">@Model.Content</p>
-                                </div>
+                            <strong class="d-block mt-4 mb-2">Mô tả</strong>
 
-                                <small class="product-price text-muted ms-auto mt-auto mb-5">@Model.PriceNew</small>
-                            </div>
-
-                            <div class="product-description">
-
-                                <strong class="d-block mt-4 mb-2">Description</strong>
-
-                                <p class="lead mb-5">@Model.Description</p>
-                            </div>
+                            <p class="lead mb-5">@Model.Description</p>
+                        </div>
 
                         <div class="product-cart-thumb row">
-                           
+
 
                             <div class="col-lg-6 col-12 mt-4 mt-lg-0">
                                 <button type="submit" class="btn custom-btn cart-btn" data-bs-toggle="modal" data-bs-target="#cart-modal" asp-route-id="@Model.Id">Thêm vào giỏ hàng</button>
                             </div>
 
-                       
-                        </div>
 
                         </div>
-                    
+
+                    </div>
+
                 </div>
-                    
-                </div>
+
+            </div>
         </section>
+
+        <!-- Hiển thị danh sách các đánh giá đã có -->
+        <h3>Đánh giá của khách hàng:</h3>
+        @foreach (var review in Model.ProductReviews)
+        {
+            <div class="review-item">
+                <strong>@review.Customer.Name:</strong>
+                <div class="rating">
+                    @for (int i = 0; i < review.Rating; i++)
+                    {
+                        <i class="fas fa-star text-warning"></i> <!-- Ngôi sao đầy -->
+                    }
+                    @for (int i = review.Rating; i < 5; i++)
+                    {
+                        <i class="far fa-star text-warning"></i> <!-- Ngôi sao rỗng -->
+                    }
+                </div>
+                <p>@review.Comment</p>
+                <small>Đánh giá vào: @review.CreatedAt?.ToString("dd/MM/yyyy")</small>
+            </div>
+        }
+
+
+        <h3>Thêm đánh giá của bạn:</h3>
+        <form asp-controller="ProductReviews" asp-action="AddReview" method="post" class="mb-4">
+            <div class="mb-3">
+                <label class="form-label">Đánh giá:</label>
+                <div class="star-rating">
+                    <input type="radio" id="star5" name="rating" value="5" required />
+                    <label for="star5" title="5 sao"><i class="fas fa-star"></i></label>
+
+                    <input type="radio" id="star4" name="rating" value="4" required />
+                    <label for="star4" title="4 sao"><i class="fas fa-star"></i></label>
+
+                    <input type="radio" id="star3" name="rating" value="3" required />
+                    <label for="star3" title="3 sao"><i class="fas fa-star"></i></label>
+
+                    <input type="radio" id="star2" name="rating" value="2" required />
+                    <label for="star2" title="2 sao"><i class="fas fa-star"></i></label>
+
+                    <input type="radio" id="star1" name="rating" value="1" required />
+                    <label for="star1" title="1 sao"><i class="fas fa-star"></i></label>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="Comment" class="form-label">Bình luận:</label>
+                <textarea id="Comment" name="comment" class="form-control" rows="4" required></textarea>
+            </div>
+
+            <input type="hidden" name="productId" value="@Model.Id" />
+
+            <button type="submit" class="btn btn-primary">Gửi Đánh Giá</button>
+        </form>
+
+
 
         <section class="related-product section-padding border-top">
             <div class="container">

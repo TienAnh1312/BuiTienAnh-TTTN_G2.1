@@ -69,7 +69,51 @@
                 <span asp-validation-for="Content" class="text-danger"></span>
             </div>
 
-            <!-- Các trường khác (MetaTitle, MetaKeyword, MetaDescription, Slug, PriceOld, PriceNew, v.v.) -->
+            <!-- Giá cũ sản phẩm -->
+            <div class="form-group">
+                <label asp-for="PriceOld" class="control-label"></label>
+                <input asp-for="PriceOld" class="form-control" />
+                <span asp-validation-for="PriceOld" class="text-danger"></span>
+            </div>
+
+            <!-- Giá mới sản phẩm -->
+            <div class="form-group">
+                <label asp-for="PriceNew" class="control-label"></label>
+                <input asp-for="PriceNew" class="form-control" />
+                <span asp-validation-for="PriceNew" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+
+            
+            @* <div class="form-group">
+                <label asp-for="MetaTitle" class="control-label"></label>
+                <input asp-for="MetaTitle" class="form-control" />
+                <span asp-validation-for="MetaTitle" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MetaKeyword" class="control-label"></label>
+                <input asp-for="MetaKeyword" class="form-control" />
+                <span asp-validation-for="MetaKeyword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MetaDescription" class="control-label"></label>
+                <input asp-for="MetaDescription" class="form-control" />
+                <span asp-validation-for="MetaDescription" class="text-danger"></span>
+            </div> *@
+
+
+            <div class="form-group">
+                <label asp-for="Slug" class="control-label"></label>
+                <input asp-for="Slug" class="form-control" />
+                <span asp-validation-for="Slug" class="text-danger"></span>
+            </div>
 
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

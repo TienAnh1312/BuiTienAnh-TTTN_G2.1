@@ -20,14 +20,22 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         }
 
         // GET: Admins/Orderdetails
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int? status)
         {
             var dsmmvcContext = _context.Orderdetails
-                .Include(o => o.IdordNavigation)
-                .Include(o => o.IdproductNavigation);  // Bao gồm thông tin sản phẩm (chứa ảnh)
-            return View(await dsmmvcContext.ToListAsync());
-        }
+                .Include(o => o.IdordNavigation)  // Lấy thông tin đơn hàng
+                .Include(o => o.IdproductNavigation)  // Lấy thông tin sản phẩm
+                //.Where(od => od.IdordNavigation.Status == 1)  // Chỉ lấy các đơn hàng đã phê duyệt
+                .AsQueryable();  // Chuyển sang IQueryable để có thể linh hoạt lọc
 
+            // Kiểm tra nếu tham số status có giá trị và lọc theo trạng thái đơn hàng
+            if (status.HasValue)
+            {
+                dsmmvcContext = dsmmvcContext.Where(od => od.IdordNavigation.Status == status.Value);
+            }
+
+            return View(await dsmmvcContext.ToListAsync());  // Trả về danh sách chi tiết đơn hàng đã lọc
+        }
 
         // GET: Admins/Orderdetails/Details/5
         public async Task<IActionResult> Details(long? id)
@@ -216,9 +224,9 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
             }
 
             // Kiểm tra nếu đơn hàng đang giao, thay đổi trạng thái
-            if (order.Status == 1) // Giả sử 2 là trạng thái "Đang giao"
+            if (order.Status == 1) // 1 là trạng thái "Đang giao"
             {
-                order.Status = 2; // Giả sử 3 là trạng thái "Đã giao"
+                order.Status = 2; // 2 là trạng thái "Đã giao"
                 _context.Orders.Update(order);
                 await _context.SaveChangesAsync();
 
@@ -226,8 +234,8 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
                 TempData["SuccessMessage"] = "Đơn hàng đã được đánh dấu là đã giao!";
             }
 
-            // Chuyển hướng về trang chi tiết đơn hàng hoặc nơi bạn cần
-            return RedirectToAction("Index", "Orderdetails");
+            // Sau khi thay đổi trạng thái, chuyển hướng về trang Index với tham số status = 2 (Đã giao)
+            return RedirectToAction("Index", new { status = 2 });
         }
 
     }

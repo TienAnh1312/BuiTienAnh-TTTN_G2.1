@@ -1,1 +1,61 @@
-﻿<h1>DashBoard</h1>
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<style>
+    .card-body {
+        padding: 2rem;
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+    }
+
+    .display-5 {
+        font-size: 2.5rem;
+    }
+</style>
+
+<h2 class="my-4 text-center">Dashboard</h2>
+
+
+
+<div class="row g-3">
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm text-center text-white bg-primary">
+            <div class="card-body">
+                <h5 class="card-title">Tổng số đơn hàng</h5>
+                <p class="display-5 fw-bold">@ViewData["TotalOrders"]</p>
+                <i class="bi bi-box-seam fs-1"></i>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm text-center text-white bg-success">
+            <div class="card-body">
+                <h5 class="card-title">Đơn hàng đã phê duyệt</h5>
+                <p class="display-5 fw-bold">@ViewData["ApprovedOrders"]</p>
+                <i class="bi bi-check-circle-fill fs-1"></i>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm text-center text-white bg-warning">
+            <div class="card-body">
+                <h5 class="card-title">Đơn hàng chờ phê duyệt</h5>
+                <p class="display-5 fw-bold">@ViewData["PendingOrders"]</p>
+                <i class="bi bi-hourglass-split fs-1"></i>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm text-center text-white bg-info">
+            <div class="card-body">
+                <h5 class="card-title">Tổng số sản phẩm</h5>
+                <p class="display-5 fw-bold">@ViewData["totalProducts"]</p>
+                <i class="bi bi-cart-fill fs-1"></i>
+            </div>
+        </div>
+    </div>
+</div>
+

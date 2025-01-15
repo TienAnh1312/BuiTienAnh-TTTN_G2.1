@@ -85,7 +85,7 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         // POST: Admins/Products/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Cid,Code,Title,Description,Content,Image,MetaTitle,MetaKeyword,MetaDescription,Slug,PriceOld,PriceNew,Size,Views,Likes,Star,Home,Hot,AdminCreated,AdminUpdated,Status,Isdelete")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Cid,Code,Title,Description,Content,Image,MetaTitle,MetaKeyword,MetaDescription,Slug,PriceOld,PriceNew,Size,Views,Likes,Star,Home,Hot,AdminCreated,AdminUpdated,Status,Isdelete,Quantity")] Product product)
         {
             if (ModelState.IsValid)
             {
@@ -170,7 +170,7 @@ namespace K21CNT2_BuiTienAnh_2110900003.Areas.Admins.Controllers
         // POST: Admins/Products/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Cid,Code,Title,Description,Content,Image,MetaTitle,MetaKeyword,MetaDescription,Slug,PriceOld,PriceNew,Size,Views,Likes,Star,Home,Hot,AdminCreated,AdminUpdated,Status,Isdelete")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Cid,Code,Title,Description,Content,Image,MetaTitle,MetaKeyword,MetaDescription,Slug,PriceOld,PriceNew,Size,Views,Likes,Star,Home,Hot,AdminCreated,AdminUpdated,Status,Isdelete,Quantity")] Product product)
         {
             if (id != product.Id)
             {

@@ -51,7 +51,7 @@
                 <span asp-validation-for="Content" class="text-danger"></span>
             </div>
             
-            <div class="form-group">
+            @* <div class="form-group">
                 <label asp-for="MetaTitle" class="control-label"></label>
                 <input asp-for="MetaTitle" class="form-control" />
                 <span asp-validation-for="MetaTitle" class="text-danger"></span>
@@ -65,7 +65,7 @@
                 <label asp-for="MetaDescription" class="control-label"></label>
                 <input asp-for="MetaDescription" class="form-control" />
                 <span asp-validation-for="MetaDescription" class="text-danger"></span>
-            </div>
+            </div> *@
             <div class="form-group">
                 <label asp-for="Slug" class="control-label"></label>
                 <input asp-for="Slug" class="form-control" />
@@ -81,6 +81,14 @@
                 <input asp-for="PriceNew" class="form-control" />
                 <span asp-validation-for="PriceNew" class="text-danger"></span>
             </div>
+
+
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+
             <div class="form-group">
                 <label asp-for="Size" class="control-label"></label>
                 <input asp-for="Size" class="form-control" />

@@ -11,6 +11,7 @@
         width: 100px !important;
     }
 </style>
+
 <form asp-action="OrderPay" asp-controller="Carts" method="post">
     <div class="row cart py-2">
         <h2 class="text-center my-2 py-2">ĐƠN HÀNG CỦA BẠN</h2>
@@ -130,8 +131,17 @@
                 </div>
             </div>
 
-            <button type="submit" class="btn btn-success">Thanh toán</button>
+            <button type="submit" class="btn btn-success" asp-route-CustomersID="@Context.Session.GetInt32("CustomersID")">Thanh toán</button>
+            
         </div>
     </div>
 </form>
 
+
+<!-- Nút thanh toán VNPAY -->
+
+<a href="@Url.Action("CreateVnPayRequest", "ThanhToan")" class="btn btn-primary">Thanh toán VNPay</a>
+
+<a href="@Url.Action("CreatePayment", "MoMo", new { area = "Customers", orderId = ViewBag.OrderId, amount = ViewBag.TotalAmount })" class="btn btn-primary">
+    Thanh toán qua MoMo
+</a>

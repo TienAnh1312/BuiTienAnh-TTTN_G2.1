@@ -13,7 +13,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.11",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
+          "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "K21CNT2_BuiTienAnh_2110900003.dll": {}
